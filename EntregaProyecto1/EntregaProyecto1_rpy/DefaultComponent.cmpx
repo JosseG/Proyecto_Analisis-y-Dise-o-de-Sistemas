@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1252</CODE-PAGE>
+	<version>100.840.0</version>
+	<lang>C++</lang>
+	<BuildNo>9841247</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID 290f4c69-7855-4304-bd6f-46bea9fa3249</_id>
+			<_myState type="a">139264</_myState>
+			<_name type="a">DefaultComponent</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.21.2021::1:6:7</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 25814f51-0248-4318-92eb-b22974a543b7</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<HandlesInMe type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">2</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Default.sbsx</_hfilename>
+							<_hname type="a">Default</_hname>
+							<_hid type="a">GUID b02d76a5-2c33-4718-8c12-7fb8166977aa</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Settings\UMLPerspectives\UMLPerspectives.sbs</_hfilename>
+							<_hname type="a">UMLPerspectives</_hname>
+							<_hid type="a">GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</HandlesInMe>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID 7cb4c7ac-3f6b-45ab-aeac-357a5fa3538d</value>
+				<value>GUID 25814f51-0248-4318-92eb-b22974a543b7</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID 7cb4c7ac-3f6b-45ab-aeac-357a5fa3538d</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">9.21.2021::1:6:7</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.21.2021::1:6:7</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 25814f51-0248-4318-92eb-b22974a543b7</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.21.2021::1:6:7</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">None</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<_checksList_Default type="a">1</_checksList_Default>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID 47f2e1e9-871f-4787-8393-87c54d904aa6</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IFolder type="e">
+			<_id type="a">GUID 47f2e1e9-871f-4787-8393-87c54d904aa6</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">DefaultConfig</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">9.21.2021::1:6:7</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
