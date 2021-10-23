@@ -11,8 +11,8 @@
 			<_id type="a">GUID 5ca85b99-d8af-4b79-aab3-3675885b5cfd</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">entregable</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::5:22:52</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::6:40:36</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.23.2021::4:29:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.23.2021::4:31:37</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -108,7 +108,7 @@
 		</IProfile>
 		<IProfile type="e">
 			<fileName type="a">BusinessModeling</fileName>
-			<_persistAs type="a">C:\Users\User\Documents\bCIBERTEC TERCER CICLO\ANALISIS Y DISE%D1O DE SISTEMAS I\temas\profiles</_persistAs>
+			<_persistAs type="a">$OMROOT\Profiles\profiles</_persistAs>
 			<_id type="a">GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</_id>
 			<_partOfTheModelKind type="a">referenceunit</_partOfTheModelKind>
 		</IProfile>
@@ -321,8 +321,8 @@
 			</_properties>
 			<_name type="a">Diagrama de Estructura de Proyecto</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::5:24:23</_modifiedTime>
-			<_lastModifiedTime type="a">7.20.2021::5:24:23</_lastModifiedTime>
+			<_modifiedTime type="a">10.23.2021::4:31:37</_modifiedTime>
+			<_lastModifiedTime type="a">10.23.2021::4:31:37</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -383,8 +383,8 @@
 				<value>GUID 673f1980-6440-4f4e-97b3-2e2e374c6b15</value>
 				<value>GUID 4d6b0cee-636e-4d7e-8a41-d37b49106d35</value>
 				<value>GUID 6c2b587b-80f9-4068-ae49-1b4b81bfc14f</value>
-				<value>GUID 7ab3477f-1531-49b9-850f-bb1f4a09aeee</value>
-				<value>GUID 2e3cee20-0629-485d-8275-d3562d1e0c8e</value>
+				<value>GUID 3faa82e7-02da-4d24-9393-3af61d256bb7</value>
+				<value>GUID e4ed755f-982e-44b0-9b5e-006c6cf3978c</value>
 			</AggregatesList>
 		</CGIClassChart>
 		<CGIClass type="e">
@@ -500,7 +500,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">Diagrama de Estructura de Proyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID 7ab3477f-1531-49b9-850f-bb1f4a09aeee</_hid>
+					<_hid type="a">GUID 3faa82e7-02da-4d24-9393-3af61d256bb7</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -559,7 +559,7 @@
 					<_hm2Class type="a">OMGEElement</_hm2Class>
 					<_hsubsystem type="a">Diagrama de Estructura de Proyecto</_hsubsystem>
 					<_hname type="a">CGIImageData</_hname>
-					<_hid type="a">GUID 2e3cee20-0629-485d-8275-d3562d1e0c8e</_hid>
+					<_hid type="a">GUID e4ed755f-982e-44b0-9b5e-006c6cf3978c</_hid>
 				</IHandle>
 			</m_pImageViewData>
 			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
@@ -567,7 +567,7 @@
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
 		</CGIPackage>
 		<CGIImageData type="e">
-			<_id type="a">GUID 7ab3477f-1531-49b9-850f-bb1f4a09aeee</_id>
+			<_id type="a">GUID 3faa82e7-02da-4d24-9393-3af61d256bb7</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
@@ -598,7 +598,7 @@
 			<m_fileModifiedTime type="a">12.31.1969::19:0:0</m_fileModifiedTime>
 		</CGIImageData>
 		<CGIImageData type="e">
-			<_id type="a">GUID 2e3cee20-0629-485d-8275-d3562d1e0c8e</_id>
+			<_id type="a">GUID e4ed755f-982e-44b0-9b5e-006c6cf3978c</_id>
 			<m_type type="a">0</m_type>
 			<m_pModelObject type="r">
 				<IHandle type="e">
