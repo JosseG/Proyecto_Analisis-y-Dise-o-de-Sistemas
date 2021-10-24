@@ -17,7 +17,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessAnalysisModel</_hname>
 							<_hid type="a">GUID 05eb2d57-970a-4a6d-af77-2bab148f8e57</_hid>
@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.20.2021::6:39:43</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">10.24.2021::21:7:3</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -33,15 +33,16 @@
 					<_hid type="a">GUID 6e65fc9b-5133-4510-af0d-68d1aa32a2c9</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.20.2021::6:40:36</_modifiedTime>
-			<_lastID type="a">8</_lastID>
-			<weakCGTime type="a">7.20.2021::6:39:43</weakCGTime>
+			<_modifiedTime type="a">10.24.2021::21:7:3</_modifiedTime>
+			<_lastID type="a">9</_lastID>
+			<weakCGTime type="a">10.24.2021::21:7:3</weakCGTime>
 			<strongCGTime type="a">7.20.2021::5:24:23</strongCGTime>
 			<_defaultComposite type="s">GUID 73270bc6-4931-43de-89ee-f1496d303749</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
 			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 490e5204-614e-42fc-817f-2705c73a6a42</value>
+				<value>GUID 140ad74d-bcb6-41d3-aaf1-2fe9f4747dbd</value>
 				<value>GUID 73270bc6-4931-43de-89ee-f1496d303749</value>
 				<value>GUID 2e77926c-ecac-4675-9b22-d4c37eb78b34</value>
 				<value>GUID 67d99b4f-79cf-44bd-8be6-bc8d013417a5</value>
@@ -967,6 +968,10 @@
 			<m_srcFile type="a">\images_bmp\bworker.jpg</m_srcFile>
 			<m_fileModifiedTime type="a">12.31.1969::19:0:0</m_fileModifiedTime>
 		</CGIImageData>
+		<ISubsystem type="e">
+			<fileName type="a">Gestion</fileName>
+			<_id type="a">GUID 140ad74d-bcb6-41d3-aaf1-2fe9f4747dbd</_id>
+		</ISubsystem>
 		<IClass type="e">
 			<_id type="a">GUID 73270bc6-4931-43de-89ee-f1496d303749</_id>
 			<_myState type="a">40960</_myState>
@@ -991,7 +996,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1025,7 +1030,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1059,7 +1064,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1093,7 +1098,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1127,7 +1132,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1161,7 +1166,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1195,7 +1200,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
