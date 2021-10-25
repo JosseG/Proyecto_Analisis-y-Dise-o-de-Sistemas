@@ -11,10 +11,10 @@
 			<_id type="a">GUID 8263492d-6409-42c1-8534-9eea55f4cfe1</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">TrabajadoresNegocio</_name>
-			<_modifiedTimeWeak type="a">10.24.2021::23:52:45</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.24.2021::23:52:45</_modifiedTime>
-			<_lastID type="a">9</_lastID>
-			<weakCGTime type="a">10.24.2021::23:52:45</weakCGTime>
+			<_modifiedTimeWeak type="a">10.25.2021::0:11:41</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.25.2021::0:10:54</_modifiedTime>
+			<_lastID type="a">10</_lastID>
+			<weakCGTime type="a">10.25.2021::0:11:41</weakCGTime>
 			<strongCGTime type="a">10.24.2021::23:44:3</strongCGTime>
 			<_defaultComposite type="s">GUID 052815b3-6273-43da-8148-4826f3c61033</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -28,6 +28,7 @@
 				<value>GUID 1d465515-7f2e-4bf9-84d5-cb41cfb75229</value>
 				<value>GUID 24587317-8822-4826-8520-665610b50ebd</value>
 				<value>GUID 82672589-a9b9-404c-a84c-eac573b64e65</value>
+				<value>GUID 39598153-f026-467d-8b06-ad946500442e</value>
 			</AggregatesList>
 		</ISubsystem>
 		<IDiagram type="e">
@@ -173,8 +174,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.24.2021::23:52:45</_modifiedTime>
-			<_lastModifiedTime type="a">10.24.2021::23:52:45</_lastModifiedTime>
+			<_modifiedTime type="a">10.25.2021::0:11:41</_modifiedTime>
+			<_lastModifiedTime type="a">10.25.2021::0:11:41</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -817,7 +818,7 @@
 			<m_pParent type="s">GUID 41f5499e-a802-484c-8121-0427b13f35ac</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Personal</m_str>
+					<m_str type="a">PersonalAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1088,7 +1089,7 @@
 		<IClass type="e">
 			<_id type="a">GUID 82672589-a9b9-404c-a84c-eac573b64e65</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">Personal</_name>
+			<_name type="a">PersonalAlmacen</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
@@ -1103,16 +1104,36 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">10.24.2021::23:49:40</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">10.25.2021::0:11:41</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
 					<_hid type="a">GUID 58db0584-89f0-4c5a-993c-aa9dbaccbf13</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">10.24.2021::23:49:40</_modifiedTime>
-			<weakCGTime type="a">10.24.2021::23:49:40</weakCGTime>
-			<strongCGTime type="a">10.24.2021::23:49:40</strongCGTime>
+			<_modifiedTime type="a">10.25.2021::0:11:41</_modifiedTime>
+			<weakCGTime type="a">10.25.2021::0:11:41</weakCGTime>
+			<strongCGTime type="a">10.25.2021::0:11:41</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+		</IClass>
+		<IClass type="e">
+			<_id type="a">GUID 39598153-f026-467d-8b06-ad946500442e</_id>
+			<_myState type="a">10240</_myState>
+			<_name type="a">class_9</_name>
+			<_modifiedTimeWeak type="a">10.25.2021::0:9:23</_modifiedTimeWeak>
+			<_theMainDiagram type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID 58db0584-89f0-4c5a-993c-aa9dbaccbf13</_hid>
+				</IHandle>
+			</_theMainDiagram>
+			<_modifiedTime type="a">10.25.2021::0:9:23</_modifiedTime>
+			<weakCGTime type="a">10.25.2021::0:9:23</weakCGTime>
+			<strongCGTime type="a">10.25.2021::0:9:23</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
