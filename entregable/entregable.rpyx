@@ -11,8 +11,8 @@
 			<_id type="a">GUID 5ca85b99-d8af-4b79-aab3-3675885b5cfd</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">entregable</_name>
-			<_modifiedTimeWeak type="a">10.23.2021::4:29:47</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.23.2021::4:31:37</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.24.2021::23:50:33</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.24.2021::23:50:33</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
@@ -38,8 +38,8 @@
 			<_defaultSubsystem type="r">
 				<ISubsystemHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hname type="a">Default</_hname>
-					<_hid type="a">GUID 31699e79-7353-47ad-a481-fe05d525cbcd</_hid>
+					<_hname type="a">MCUN</_hname>
+					<_hid type="a">GUID 8ecacec7-cce6-4abb-ac38-e0fa0072b3d4</_hid>
 				</ISubsystemHandle>
 			</_defaultSubsystem>
 			<_component type="r">
@@ -86,7 +86,6 @@
 				</IRPYRawContainer>
 			</mapAssociationsToRemove>
 			<AggregatesList type="e">
-				<value>GUID 31699e79-7353-47ad-a481-fe05d525cbcd</value>
 				<value>GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</value>
 				<value>GUID 018fd50e-cdfb-4d1c-8d00-c6e75ba697d6</value>
 				<value>GUID 8ecacec7-cce6-4abb-ac38-e0fa0072b3d4</value>
@@ -96,10 +95,6 @@
 				<value>GUID 25eae141-a075-422f-ba36-c008d2332124</value>
 			</AggregatesList>
 		</IProject>
-		<ISubsystem type="e">
-			<fileName type="a">Default</fileName>
-			<_id type="a">GUID 31699e79-7353-47ad-a481-fe05d525cbcd</_id>
-		</ISubsystem>
 		<IProfile type="e">
 			<fileName type="a">UMLPerspectives</fileName>
 			<_persistAs type="a">$OMROOT\Settings\UMLPerspectives</_persistAs>
@@ -125,8 +120,8 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">Model1</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::5:1:18</_modifiedTime>
-			<_lastModifiedTime type="a">7.20.2021::5:1:18</_lastModifiedTime>
+			<_modifiedTime type="a">10.24.2021::23:50:33</_modifiedTime>
+			<_lastModifiedTime type="a">10.24.2021::23:50:33</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -134,8 +129,8 @@
 			<_defaultSubsystem type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hname type="a">Default</_hname>
-					<_hid type="a">GUID 31699e79-7353-47ad-a481-fe05d525cbcd</_hid>
+					<_hname type="a">MCUN</_hname>
+					<_hid type="a">GUID 8ecacec7-cce6-4abb-ac38-e0fa0072b3d4</_hid>
 				</IHandle>
 			</_defaultSubsystem>
 			<AggregatesList type="e">
@@ -193,9 +188,9 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hsubsystem type="a">MCUN</_hsubsystem>
 					<_hname type="a">TopLevel</_hname>
-					<_hid type="a">GUID 3c2fdf37-b1b6-4d99-b2e6-b3efd7b490b6</_hid>
+					<_hid type="a">GUID a04173cf-4dfe-4bc4-b232-930a255194ff</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s"></m_pParent>
@@ -321,8 +316,8 @@
 			</_properties>
 			<_name type="a">Diagrama de Estructura de Proyecto</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.23.2021::4:31:37</_modifiedTime>
-			<_lastModifiedTime type="a">10.23.2021::4:31:37</_lastModifiedTime>
+			<_modifiedTime type="a">10.24.2021::23:50:33</_modifiedTime>
+			<_lastModifiedTime type="a">10.24.2021::23:50:33</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -330,8 +325,8 @@
 			<_defaultSubsystem type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">ISubsystem</_hm2Class>
-					<_hname type="a">Default</_hname>
-					<_hid type="a">GUID 31699e79-7353-47ad-a481-fe05d525cbcd</_hid>
+					<_hname type="a">MCUN</_hname>
+					<_hid type="a">GUID 8ecacec7-cce6-4abb-ac38-e0fa0072b3d4</_hid>
 				</IHandle>
 			</_defaultSubsystem>
 			<AggregatesList type="e">
@@ -393,9 +388,9 @@
 			<m_pModelObject type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IClass</_hm2Class>
-					<_hsubsystem type="a">Default</_hsubsystem>
+					<_hsubsystem type="a">MCUN</_hsubsystem>
 					<_hname type="a">TopLevel</_hname>
-					<_hid type="a">GUID 3c2fdf37-b1b6-4d99-b2e6-b3efd7b490b6</_hid>
+					<_hid type="a">GUID a04173cf-4dfe-4bc4-b232-930a255194ff</_hid>
 				</IHandle>
 			</m_pModelObject>
 			<m_pParent type="s"></m_pParent>

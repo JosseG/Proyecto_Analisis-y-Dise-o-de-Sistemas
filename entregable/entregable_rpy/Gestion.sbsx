@@ -11,14 +11,14 @@
 			<_id type="a">GUID 140ad74d-bcb6-41d3-aaf1-2fe9f4747dbd</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Gestion</_name>
-			<_modifiedTimeWeak type="a">10.24.2021::21:7:8</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.24.2021::21:7:18</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.24.2021::21:55:47</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.24.2021::21:55:19</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">10.24.2021::21:8:3</weakCGTime>
+			<weakCGTime type="a">10.24.2021::23:4:37</weakCGTime>
 			<strongCGTime type="a">10.24.2021::21:7:42</strongCGTime>
 			<_defaultComposite type="s">GUID 3385dd48-1f41-439a-9827-4183a74ade07</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID e534e104-16c0-4970-908f-8a0d4ae71f12</value>
 				<value>GUID 3385dd48-1f41-439a-9827-4183a74ade07</value>
@@ -165,10 +165,10 @@
 			<_id type="a">GUID 3385dd48-1f41-439a-9827-4183a74ade07</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
-			<_modifiedTimeWeak type="a">10.24.2021::21:8:3</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.24.2021::21:7:42</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.24.2021::23:4:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.24.2021::21:55:19</_modifiedTime>
 			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">10.24.2021::21:8:3</weakCGTime>
+			<weakCGTime type="a">10.24.2021::23:4:37</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -185,29 +185,33 @@
 			<_id type="a">GUID 061e15ba-6c37-4a55-bc07-f8032631081f</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">activity_0</_name>
-			<_modifiedTimeWeak type="a">10.24.2021::21:8:3</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.24.2021::21:8:3</_modifiedTime>
-			<_lastID type="a">1</_lastID>
-			<weakCGTime type="a">10.24.2021::21:8:3</weakCGTime>
+			<_modifiedTimeWeak type="a">10.24.2021::23:4:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.24.2021::23:4:37</_modifiedTime>
+			<_lastID type="a">5</_lastID>
+			<weakCGTime type="a">10.24.2021::23:4:37</weakCGTime>
 			<strongCGTime type="a">10.24.2021::21:7:42</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<_defNumber type="a">0</_defNumber>
-			<_version type="a">10.24.2021::16:8:3</_version>
-			<_baseVersion type="a">12.31.1969::19:0:0</_baseVersion>
+			<_defNumber type="a">3</_defNumber>
+			<_version type="a">10.24.2021::18:4:37</_version>
+			<_baseVersion type="a">1.2.1990::0:0:0</_baseVersion>
 			<_diagram type="s">GUID bb4abc35-129f-47cc-94b5-4e87f58ca138</_diagram>
 			<AggregatesList type="e">
 				<value>GUID 96791bb9-e315-4cdc-8022-c73c04a6a4a3</value>
 				<value>GUID bb4abc35-129f-47cc-94b5-4e87f58ca138</value>
+				<value>GUID 4e248618-83b5-47c5-9fbb-931ed39869de</value>
+				<value>GUID 8871ebeb-5261-469c-b09f-adeb7158e755</value>
+				<value>GUID a20a6cc8-bf95-4aa1-b6e7-a37ce775c124</value>
+				<value>GUID f0d0f346-46fd-45e4-a2db-27a0c2045f5c</value>
 			</AggregatesList>
 		</IActivityGraph>
 		<IState type="e">
 			<_id type="a">GUID 96791bb9-e315-4cdc-8022-c73c04a6a4a3</_id>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.24.2021::23:4:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.24.2021::23:4:37</_modifiedTime>
 			<_parent type="s"></_parent>
 			<_defaultTrans type="s"></_defaultTrans>
 		</IState>
@@ -222,7 +226,40 @@
 							<_Name type="a">Format</_Name>
 							<Metaclasses type="c">
 								<IRPYRawContainer type="e">
-									<size type="a">2</size>
+									<size type="a">5</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Action</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">4</size>
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,95,60</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">225,235,245</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
 									<IPropertyMetaclass type="e">
 										<_Name type="a">State</_Name>
 										<Properties type="c">
@@ -275,6 +312,51 @@
 									</IPropertyMetaclass>
 									
 									<IPropertyMetaclass type="e">
+										<_Name type="a">Swimlane</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">6</size>
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">2</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+									<IPropertyMetaclass type="e">
 										<_Name type="a">Swimlane_Frame</_Name>
 										<Properties type="c">
 											<IRPYRawContainer type="e">
@@ -319,6 +401,45 @@
 										</Properties>
 									</IPropertyMetaclass>
 									
+									<IPropertyMetaclass type="e">
+										<_Name type="a">TerminationState</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">5</size>
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,25,26</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor@Child.InnerSymbol</_Name>
+													<_Value type="a">$&lt;asParent&gt;LineColor</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">2</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
 								</IRPYRawContainer>
 							</Metaclasses>
 						</IPropertySubject>
@@ -328,9 +449,9 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">activitydiagram_0</_name>
-			<_modifiedTimeWeak type="a">10.24.2021::21:8:3</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.24.2021::21:8:3</_modifiedTime>
-			<_lastModifiedTime type="a">10.24.2021::21:8:3</_lastModifiedTime>
+			<_modifiedTimeWeak type="a">10.24.2021::23:4:35</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.24.2021::23:4:37</_modifiedTime>
+			<_lastModifiedTime type="a">10.24.2021::23:4:37</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -367,7 +488,7 @@
 			</m_name>
 			<m_drawBehavior type="a">4096</m_drawBehavior>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
-			<elementList type="a">2</elementList>
+			<elementList type="a">6</elementList>
 			
 			<m_access type="a">'Z'</m_access>
 			<m_modified type="a">'N'</m_modified>
@@ -386,6 +507,10 @@
 			<AggregatesList type="e">
 				<value>GUID 6561460d-67e0-4850-94e0-c2f6555db0a3</value>
 				<value>GUID b10779ac-e19b-4eef-b419-5a616ddf2569</value>
+				<value>GUID d84f788e-30c5-4a64-962d-1219fbd8bf3b</value>
+				<value>GUID 143587cd-7a80-419e-acc6-2e21a9ea562b</value>
+				<value>GUID 82920c50-08f9-4165-8235-757b0d54fa25</value>
+				<value>GUID d03ba975-d5a8-4c88-9588-30192159a32e</value>
 			</AggregatesList>
 		</CGIStateChart>
 		<CGIState type="e">
@@ -473,8 +598,256 @@
 			<m_polygon type="a">4 21 18  21 444  689 444  689 18  </m_polygon>
 			<m_nNameFormat type="a">0</m_nNameFormat>
 			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
-			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+			<frameset type="a">&lt;frameset cols=137,179,172,180&gt;
+&lt;frame Id=GUID d03ba975-d5a8-4c88-9588-30192159a32e&gt;
+&lt;frame Id=GUID 82920c50-08f9-4165-8235-757b0d54fa25&gt;
+&lt;frame Id=GUID 143587cd-7a80-419e-acc6-2e21a9ea562b&gt;
+&lt;frame Id=GUID d84f788e-30c5-4a64-962d-1219fbd8bf3b&gt;</frameset>
 		</CGISwimlaneFrame>
+		<CGIPartition type="e">
+			<_id type="a">GUID d84f788e-30c5-4a64-962d-1219fbd8bf3b</_id>
+			<m_type type="a">170</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID f0d0f346-46fd-45e4-a2db-27a0c2045f5c</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID b10779ac-e19b-4eef-b419-5a616ddf2569</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">swimlane_4</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 509 18  689 18  689 444  509 444  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+		</CGIPartition>
+		<CGIPartition type="e">
+			<_id type="a">GUID 143587cd-7a80-419e-acc6-2e21a9ea562b</_id>
+			<m_type type="a">170</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID a20a6cc8-bf95-4aa1-b6e7-a37ce775c124</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID b10779ac-e19b-4eef-b419-5a616ddf2569</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">swimlane_3</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 337 18  509 18  509 444  337 444  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+		</CGIPartition>
+		<CGIPartition type="e">
+			<_id type="a">GUID 82920c50-08f9-4165-8235-757b0d54fa25</_id>
+			<m_type type="a">170</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID 8871ebeb-5261-469c-b09f-adeb7158e755</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID b10779ac-e19b-4eef-b419-5a616ddf2569</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">swimlane_2</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 158 18  337 18  337 444  158 444  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+		</CGIPartition>
+		<CGIPartition type="e">
+			<_id type="a">GUID d03ba975-d5a8-4c88-9588-30192159a32e</_id>
+			<m_type type="a">170</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISwimlane</_hm2Class>
+					<_hid type="a">GUID 4e248618-83b5-47c5-9fbb-931ed39869de</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID b10779ac-e19b-4eef-b419-5a616ddf2569</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">swimlane_1</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 21 18  158 18  158 444  21 444  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<frameset type="a">&lt;frameset rows=&gt;</frameset>
+		</CGIPartition>
+		<ISwimlane type="e">
+			<_id type="a">GUID 4e248618-83b5-47c5-9fbb-931ed39869de</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">swimlane_1</_name>
+			<_modifiedTimeWeak type="a">10.24.2021::23:4:37</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.24.2021::23:4:37</_modifiedTime>
+			<_represents type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_represents>
+		</ISwimlane>
+		<ISwimlane type="e">
+			<_id type="a">GUID 8871ebeb-5261-469c-b09f-adeb7158e755</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">swimlane_2</_name>
+			<_modifiedTimeWeak type="a">10.24.2021::21:55:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.24.2021::21:55:19</_modifiedTime>
+			<_represents type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_represents>
+		</ISwimlane>
+		<ISwimlane type="e">
+			<_id type="a">GUID a20a6cc8-bf95-4aa1-b6e7-a37ce775c124</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">swimlane_3</_name>
+			<_modifiedTimeWeak type="a">10.24.2021::21:55:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.24.2021::21:55:24</_modifiedTime>
+			<_represents type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_represents>
+		</ISwimlane>
+		<ISwimlane type="e">
+			<_id type="a">GUID f0d0f346-46fd-45e4-a2db-27a0c2045f5c</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">swimlane_4</_name>
+			<_modifiedTimeWeak type="a">10.24.2021::21:55:26</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.24.2021::21:55:26</_modifiedTime>
+			<_represents type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_represents>
+		</ISwimlane>
 		
 	</RHAPSODY-MODEL>
 	<OslcLinks type="c">
