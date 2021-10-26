@@ -17,7 +17,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessAnalysisModel</_hname>
 							<_hid type="a">GUID 05eb2d57-970a-4a6d-af77-2bab148f8e57</_hid>
@@ -25,7 +25,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">10.24.2021::23:52:18</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::11:45:49</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -33,40 +33,984 @@
 					<_hid type="a">GUID 6e65fc9b-5133-4510-af0d-68d1aa32a2c9</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">10.24.2021::23:52:23</_modifiedTime>
+			<_modifiedTime type="a">7.20.2021::14:11:3</_modifiedTime>
 			<_lastID type="a">12</_lastID>
-			<weakCGTime type="a">10.24.2021::23:52:18</weakCGTime>
-			<strongCGTime type="a">7.20.2021::5:24:23</strongCGTime>
+			<weakCGTime type="a">7.20.2021::11:45:49</weakCGTime>
+			<strongCGTime type="a">7.20.2021::6:9:55</strongCGTime>
 			<_defaultComposite type="s">GUID 73270bc6-4931-43de-89ee-f1496d303749</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">10.24.2021::23:52:18</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">7.20.2021::6:13:10</_configurationRelatedTime>
 			<AggregatesList type="e">
-				<value>GUID f62b9b14-80be-4b2b-a181-b6f0f68b5025</value>
-				<value>GUID 5099ec9e-0a4c-4dd2-a7bd-8dbc4ee322a3</value>
-				<value>GUID 8263492d-6409-42c1-8534-9eea55f4cfe1</value>
+				<value>GUID 03e66730-581a-4139-933a-bdad3c197f10</value>
+				<value>GUID c3fe9460-6cb3-4778-87ba-0f95437f7c81</value>
+				<value>GUID 43cc55c7-1f03-4b6d-b630-b24a29c4963e</value>
+				<value>GUID b2a0b1be-27e8-4904-8a90-0de2e1e9ab78</value>
+				<value>GUID 46873746-8f30-4f7b-9731-b091ec69c0e5</value>
+				<value>GUID 5fb4687a-34b8-4447-9557-77acdcb3a895</value>
+				<value>GUID babedb18-81fd-423f-83dd-244ec3157589</value>
+				<value>GUID e26bc6d5-9f2a-42a5-8c2f-5c0a6c1bfdc1</value>
+				<value>GUID 84639190-632c-4bea-972f-65df6461dc65</value>
+				<value>GUID eb497f4a-764c-483b-ae7c-4da15192a611</value>
+				<value>GUID 259e7f5e-cc69-4308-8c80-5bb43b24d267</value>
+				<value>GUID c190c962-4310-4d4e-8474-215d0bd7dd1e</value>
+				<value>GUID ad39f084-83bb-4510-afed-7d9b1b7d4e90</value>
+				<value>GUID 0eddb92b-1577-4bfb-98ed-d45ca93baf47</value>
+				<value>GUID 45a444a4-f0f8-4287-8bb8-8719328f3478</value>
+				<value>GUID 30f83a9f-df81-4654-a429-900b26bc56a2</value>
+				<value>GUID f71363bd-e7f5-4f35-a8fe-075e5c4e9047</value>
+				<value>GUID 3daa7b2e-b9b0-4dad-86a3-93f406a528c5</value>
+				<value>GUID e618ffec-6929-47e8-894c-116374742eb2</value>
+				<value>GUID 740bd8d8-3847-45a6-9683-586b368f6245</value>
 				<value>GUID 73270bc6-4931-43de-89ee-f1496d303749</value>
 			</AggregatesList>
 		</ISubsystem>
 		<ISubsystem type="e">
-			<fileName type="a">RealizacionNegocio</fileName>
-			<_id type="a">GUID f62b9b14-80be-4b2b-a181-b6f0f68b5025</_id>
+			<fileName type="a">EntidadesNegocio</fileName>
+			<_id type="a">GUID 03e66730-581a-4139-933a-bdad3c197f10</_id>
 		</ISubsystem>
 		<ISubsystem type="e">
-			<fileName type="a">EntidadesNegocio</fileName>
-			<_id type="a">GUID 5099ec9e-0a4c-4dd2-a7bd-8dbc4ee322a3</_id>
+			<fileName type="a">RealizacionesNegocio</fileName>
+			<_id type="a">GUID c3fe9460-6cb3-4778-87ba-0f95437f7c81</_id>
 		</ISubsystem>
 		<ISubsystem type="e">
 			<fileName type="a">TrabajadoresNegocio</fileName>
-			<_id type="a">GUID 8263492d-6409-42c1-8534-9eea55f4cfe1</_id>
+			<_id type="a">GUID 43cc55c7-1f03-4b6d-b630-b24a29c4963e</_id>
 		</ISubsystem>
+		<IDiagram type="e">
+			<_id type="a">GUID b2a0b1be-27e8-4904-8a90-0de2e1e9ab78</_id>
+			<_myState type="a">8192</_myState>
+			<_properties type="p"><IPropertyContainer type="e">
+				<Subjects type="c">
+					<IRPYRawContainer type="e">
+						<size type="a">1</size>
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">Package</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">7</size>
+												<IProperty type="e">
+													<_Name type="a">DefaultSize</_Name>
+													<_Value type="a">0,0,216,151</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">255,255,255</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Font</_Name>
+													<_Value type="a">Tahoma</_Value>
+													<_Type type="a">String</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Size</_Name>
+													<_Value type="a">8</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Font.Weight@Child.NameCompartment@Name</_Name>
+													<_Value type="a">700</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineColor</_Name>
+													<_Value type="a">109,163,217</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Line.LineWidth</_Name>
+													<_Value type="a">1</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
+					</IRPYRawContainer>
+				</Subjects>
+			</IPropertyContainer>
+			</_properties>
+			<_name type="a">Organizacion del MAN</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">Class Diagram</_hname>
+							<_hid type="a">GUID d8f09f1b-7167-4c70-9584-943cfaf8fa2a</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::6:13:16</_modifiedTime>
+			<_lastModifiedTime type="a">7.20.2021::6:13:16</_lastModifiedTime>
+			<m_hReferencedDiagram type="r">
+				<IHandle type="e">
+				</IHandle>
+			</m_hReferencedDiagram>
+			<_defaultSubsystem type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hid type="a">GUID 84804d58-3236-4f0d-a563-bdc8cad82676</_hid>
+				</IHandle>
+			</_defaultSubsystem>
+			<AggregatesList type="e">
+				<value>GUID 881639f7-98d7-438a-84e9-6bb2cb6cf703</value>
+			</AggregatesList>
+		</IDiagram>
+		<CGIClassChart type="e">
+			<_id type="a">GUID 881639f7-98d7-438a-84e9-6bb2cb6cf703</_id>
+			<m_type type="a">0</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IDiagram</_hm2Class>
+					<_hid type="a">GUID b2a0b1be-27e8-4904-8a90-0de2e1e9ab78</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">8</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<elementList type="a">4</elementList>
+			
+			<m_access type="a">'Z'</m_access>
+			<m_modified type="a">'N'</m_modified>
+			<m_nModifyDate type="a">0</m_nModifyDate>
+			<m_nCreateDate type="a">0</m_nCreateDate>
+			<m_bScaleWithZoom type="a">1</m_bScaleWithZoom>
+			<m_arrowStyle type="a">'S'</m_arrowStyle>
+			<m_pRoot type="s">GUID b0cdf4f5-ebf4-4dc4-911c-e8c207b828e6</m_pRoot>
+			<m_currentLeftTop type="a">0 0 </m_currentLeftTop>
+			<m_currentRightBottom type="a">0 0 </m_currentRightBottom>
+			<m_bFreezeCompartmentContent type="a">0</m_bFreezeCompartmentContent>
+			<AggregatesList type="e">
+				<value>GUID b0cdf4f5-ebf4-4dc4-911c-e8c207b828e6</value>
+				<value>GUID 565a9124-5978-4e53-8688-7dd6dbe98df5</value>
+				<value>GUID 19424218-bb1a-4e0c-9352-dff687f8eec6</value>
+				<value>GUID a5e23c20-b357-4693-9e64-7f54585f5e5f</value>
+			</AggregatesList>
+		</CGIClassChart>
+		<CGIClass type="e">
+			<_id type="a">GUID b0cdf4f5-ebf4-4dc4-911c-e8c207b828e6</_id>
+			<m_type type="a">78</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IClass</_hm2Class>
+					<_hid type="a">GUID 73270bc6-4931-43de-89ee-f1496d303749</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s"></m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">TopLevel</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">0</m_drawBehavior>
+			<m_bIsPreferencesInitialized type="a">0</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">0 </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+			<Attrs type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Attrs>
+			<Operations type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Operations>
+		</CGIClass>
+		<CGIPackage type="e">
+			<_id type="a">GUID 565a9124-5978-4e53-8688-7dd6dbe98df5</_id>
+			<m_type type="a">127</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\RealizacionesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN</_hsubsystem>
+					<_hname type="a">RealizacionesNegocio</_hname>
+					<_hid type="a">GUID c3fe9460-6cb3-4778-87ba-0f95437f7c81</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID b0cdf4f5-ebf4-4dc4-911c-e8c207b828e6</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">RealizacionesNegocio</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.177632 0 0 0.13119 242 231 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIPackage>
+		<CGIPackage type="e">
+			<_id type="a">GUID 19424218-bb1a-4e0c-9352-dff687f8eec6</_id>
+			<m_type type="a">127</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN</_hsubsystem>
+					<_hname type="a">EntidadesNegocio</_hname>
+					<_hid type="a">GUID 03e66730-581a-4139-933a-bdad3c197f10</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID b0cdf4f5-ebf4-4dc4-911c-e8c207b828e6</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">EntidadesNegocio</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.177632 0 0 0.13119 55 39 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIPackage>
+		<CGIPackage type="e">
+			<_id type="a">GUID a5e23c20-b357-4693-9e64-7f54585f5e5f</_id>
+			<m_type type="a">127</m_type>
+			<m_pModelObject type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">ISubsystem</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN</_hsubsystem>
+					<_hname type="a">TrabajadoresNegocio</_hname>
+					<_hid type="a">GUID 43cc55c7-1f03-4b6d-b630-b24a29c4963e</_hid>
+				</IHandle>
+			</m_pModelObject>
+			<m_pParent type="s">GUID b0cdf4f5-ebf4-4dc4-911c-e8c207b828e6</m_pParent>
+			<m_name type="p">
+				<CGIText type="e">
+					<m_str type="a">TrabajadoresNegocio</m_str>
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">5</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_name>
+			<m_drawBehavior type="a">4104</m_drawBehavior>
+			<m_transform type="a">0.177632 0 0 0.13119 398 39 </m_transform>
+			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
+			<m_AdditionalLabel type="p">
+				<CGIText type="e">
+					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
+					<m_color type="p">
+						<IColor type="e">
+							<m_fgColor type="a">0</m_fgColor>
+							<m_bgColor type="a">0</m_bgColor>
+							<m_bgFlag type="a">0</m_bgFlag>
+						</IColor>
+					</m_color>
+					<m_position type="a">1 0 0  </m_position>
+					<m_nIdent type="a">0</m_nIdent>
+					<m_bImplicitSetRectPoints type="a">0</m_bImplicitSetRectPoints>
+					<m_nOrientationCtrlPt type="a">1</m_nOrientationCtrlPt>
+				</CGIText>
+			</m_AdditionalLabel>
+			<m_polygon type="a">4 0 0  0 1151  1216 1151  1216 0  </m_polygon>
+			<m_nNameFormat type="a">0</m_nNameFormat>
+			<m_nIsNameFormat type="a">0</m_nIsNameFormat>
+		</CGIPackage>
+		<IAssociationClass type="e">
+			<_id type="a">GUID 46873746-8f30-4f7b-9731-b091ec69c0e5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Autoriza</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::9:21:36</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">SubGerente_Almacen</_hclass>
+					<_hname type="a">itsPECOSA</_hname>
+					<_hid type="a">GUID faafdc7b-714f-435e-aee9-922505274a5e</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">PECOSA</_hclass>
+					<_hname type="a">itsSubGerente_Almacen</_hname>
+					<_hid type="a">GUID f870a423-c801-4edc-8817-e9e484b6443a</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID 5fb4687a-34b8-4447-9557-77acdcb3a895</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Coordina</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::9:32:50</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">SubGerente_Almacen</_hclass>
+					<_hname type="a">itsGuia_Entrega</_hname>
+					<_hid type="a">GUID 96104d4c-a97d-4d98-9480-ab898d5ae3cf</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Guia_Entrega</_hclass>
+					<_hname type="a">itsSubGerente_Almacen</_hname>
+					<_hid type="a">GUID cdab36c5-e27e-455d-a4ab-54dfa6f177f4</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID babedb18-81fd-423f-83dd-244ec3157589</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Informa</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::9:43:45</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">Asistente_Administrativo</_hclass>
+					<_hname type="a">itsGuia_Entrega</_hname>
+					<_hid type="a">GUID e74e973b-c5dd-4b67-94df-ea67872a1ca9</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Guia_Entrega</_hclass>
+					<_hname type="a">itsAsistente_Administrativo</_hname>
+					<_hid type="a">GUID f824a3d5-575c-4f81-9f2c-02c4acbc8c02</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID e26bc6d5-9f2a-42a5-8c2f-5c0a6c1bfdc1</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Recepciona</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::9:44:57</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Guia_Entrega</_hclass>
+					<_hname type="a">itsEncargadoGerencia_Abastecimiento</_hname>
+					<_hid type="a">GUID 122023b9-7df6-4c46-8ab7-fc1a4c9061ba</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">EncargadoGerencia_Abastecimiento</_hclass>
+					<_hname type="a">itsGuia_Entrega</_hname>
+					<_hid type="a">GUID 00e9751f-4bf2-4169-8142-b172237d4116</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID 84639190-632c-4bea-972f-65df6461dc65</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Autoriza</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::9:57:35</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">SubGerente_Almacen</_hclass>
+					<_hname type="a">itsPECOSA_1</_hname>
+					<_hid type="a">GUID 5aa0604f-ec1d-4ea9-94a2-cc4a7bb5e8df</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">PECOSA</_hclass>
+					<_hname type="a">itsSubGerente_Almacen_1</_hname>
+					<_hid type="a">GUID a8723379-0f3b-4e18-9e7c-e7a12a570481</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID eb497f4a-764c-483b-ae7c-4da15192a611</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Firma</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::10:9:48</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">Asistente_Logistica</_hclass>
+					<_hname type="a">itsPECOSA</_hname>
+					<_hid type="a">GUID 9c0ed9ed-da15-4142-8389-a13c3f88c17e</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">PECOSA</_hclass>
+					<_hname type="a">itsAsistente_Logistica</_hname>
+					<_hid type="a">GUID c2f21a93-ece8-459e-ad0e-469cc141f6bf</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID 259e7f5e-cc69-4308-8c80-5bb43b24d267</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Verifica</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::10:30:11</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">Peronal_Almacen</_hclass>
+					<_hname type="a">itsPECOSA</_hname>
+					<_hid type="a">GUID 3e0ab128-c0f6-4572-8504-b60f32287fcf</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">PECOSA</_hclass>
+					<_hname type="a">itsPeronal_Almacen</_hname>
+					<_hid type="a">GUID 95a50ce6-c754-4ec5-a941-05879c288d2d</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID c190c962-4310-4d4e-8474-215d0bd7dd1e</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Gestiona</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::10:33:34</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">SubGerente_Almacen</_hclass>
+					<_hname type="a">itsGui_Pedido</_hname>
+					<_hid type="a">GUID b4e5e642-3b11-4ce8-87d1-ecfe1fc9ea98</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Gui_Pedido</_hclass>
+					<_hname type="a">itsSubGerente_Almacen</_hname>
+					<_hid type="a">GUID 45a91e67-09ff-42aa-b100-35e495b730b4</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID ad39f084-83bb-4510-afed-7d9b1b7d4e90</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Informa</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::10:48:8</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">EncargadoGerencia_Abastecimiento</_hclass>
+					<_hname type="a">itsGui_Pedido</_hname>
+					<_hid type="a">GUID 67797cd6-3c0b-4226-aeb9-1d168d5c11f6</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Gui_Pedido</_hclass>
+					<_hname type="a">itsEncargadoGerencia_Abastecimiento</_hname>
+					<_hid type="a">GUID f08f6ce3-3eb5-4c10-a504-a653df270f4a</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID 0eddb92b-1577-4bfb-98ed-d45ca93baf47</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Evalua</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::11:7:16</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Gui_Pedido</_hclass>
+					<_hname type="a">itsEncargadoGerencia_Programacion</_hname>
+					<_hid type="a">GUID 7882c414-a5a1-48d2-b308-443a7211a91a</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">EncargadoGerencia_Programacion</_hclass>
+					<_hname type="a">itsGui_Pedido</_hname>
+					<_hid type="a">GUID 142f9ab0-fa64-4b54-94ff-982ef1b85851</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID 45a444a4-f0f8-4287-8bb8-8719328f3478</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Informa</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::11:30:1</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Guia_Entrega</_hclass>
+					<_hname type="a">itsAsistente_Administrativo_1</_hname>
+					<_hid type="a">GUID 945a75bc-c79f-484a-ba70-9e70b402d5a0</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">Asistente_Administrativo</_hclass>
+					<_hname type="a">itsGuia_Entrega_1</_hname>
+					<_hid type="a">GUID 1dcb83f2-fd87-446f-8883-ac9738ee66cd</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID 30f83a9f-df81-4654-a429-900b26bc56a2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Conoce</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::11:35:6</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">EncargadoGerencia_Abastecimiento</_hclass>
+					<_hname type="a">itsGuia_Entrega_1</_hname>
+					<_hid type="a">GUID 8052dca8-9a8e-4fe7-9350-6a01e22108e6</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Guia_Entrega</_hclass>
+					<_hname type="a">itsEncargadoGerencia_Abastecimiento_1</_hname>
+					<_hid type="a">GUID cd30ad10-b475-4539-a2ef-c24ec692b3fd</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID f71363bd-e7f5-4f35-a8fe-075e5c4e9047</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Gestiona</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::11:38:43</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">SubGerente_Almacen</_hclass>
+					<_hname type="a">itsGui_Pedido_1</_hname>
+					<_hid type="a">GUID 6977dc16-ffb2-4665-94c5-83ea163a6070</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Gui_Pedido</_hclass>
+					<_hname type="a">itsSubGerente_Almacen_1</_hname>
+					<_hid type="a">GUID 7d7dd961-5590-45f0-b655-39209afe6536</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID 3daa7b2e-b9b0-4dad-86a3-93f406a528c5</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Informa</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::11:40:14</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">EncargadoGerencia_Abastecimiento</_hclass>
+					<_hname type="a">itsGui_Pedido_1</_hname>
+					<_hid type="a">GUID 3e1d2a84-45d1-47ed-9244-d262558bb648</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Gui_Pedido</_hclass>
+					<_hname type="a">itsEncargadoGerencia_Abastecimiento_1</_hname>
+					<_hid type="a">GUID c83f46cf-ceea-4fb0-82a8-551e34a5957a</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID e618ffec-6929-47e8-894c-116374742eb2</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Controla</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::11:43:5</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">SubGerente_Almacen</_hclass>
+					<_hname type="a">itsFactura</_hname>
+					<_hid type="a">GUID 61a50426-2614-4a11-84e2-fceefc37808b</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Factura</_hclass>
+					<_hname type="a">itsSubGerente_Almacen</_hname>
+					<_hid type="a">GUID 29cc698e-856f-4721-ad13-060b7483565b</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
+		<IAssociationClass type="e">
+			<_id type="a">GUID 740bd8d8-3847-45a6-9683-586b368f6245</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Completa</_name>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::11:45:49</_modifiedTime>
+			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
+			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<_itsStateChart type="r">
+				<IHandle type="e">
+				</IHandle>
+			</_itsStateChart>
+			<_classModifier type="a">Unspecified</_classModifier>
+			<_isClass type="a">1</_isClass>
+			<m_end1 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\TrabajadoresNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+					<_hclass type="a">Peronal_Almacen</_hclass>
+					<_hname type="a">itsFormato_Registro</_hname>
+					<_hid type="a">GUID 4bd12cb0-cdfc-4227-a876-760d9f55165c</_hid>
+				</IHandle>
+			</m_end1>
+			<m_end2 type="r">
+				<IHandle type="e">
+					<_hm2Class type="a">IAssociationEnd</_hm2Class>
+					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
+					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+					<_hclass type="a">Formato_Registro</_hclass>
+					<_hname type="a">itsPeronal_Almacen</_hname>
+					<_hid type="a">GUID 53355359-a2dc-46f3-b794-a8649360d406</_hid>
+				</IHandle>
+			</m_end2>
+		</IAssociationClass>
 		<IClass type="e">
 			<_id type="a">GUID 73270bc6-4931-43de-89ee-f1496d303749</_id>
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::6:9:55</_modifiedTimeWeak>
 			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
-			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
-			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
+			<weakCGTime type="a">7.20.2021::6:9:55</weakCGTime>
+			<strongCGTime type="a">7.20.2021::6:9:55</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
