@@ -11,7 +11,7 @@
 			<_id type="a">GUID 43cc55c7-1f03-4b6d-b630-b24a29c4963e</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">TrabajadoresNegocio</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::9:7:10</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">10.27.2021::23:46:51</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -23,7 +23,7 @@
 			</_theMainDiagram>
 			<_modifiedTime type="a">7.20.2021::14:11:3</_modifiedTime>
 			<_lastID type="a">4</_lastID>
-			<weakCGTime type="a">7.20.2021::9:7:10</weakCGTime>
+			<weakCGTime type="a">10.27.2021::23:46:51</weakCGTime>
 			<strongCGTime type="a">7.20.2021::6:9:55</strongCGTime>
 			<_defaultComposite type="s">GUID ae8323a7-87f2-4b8c-b94a-d9e04d5bb05e</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -131,8 +131,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::12:5:54</_modifiedTime>
-			<_lastModifiedTime type="a">7.20.2021::12:5:54</_lastModifiedTime>
+			<_modifiedTime type="a">10.27.2021::23:46:51</_modifiedTime>
+			<_lastModifiedTime type="a">10.27.2021::23:46:51</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -490,7 +490,7 @@
 			<m_pParent type="s">GUID cb3b1938-543c-480f-a00c-58e2f135def5</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">Peronal_Almacen</m_str>
+					<m_str type="a">Personal_Almacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -863,7 +863,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">7.20.2021::6:9:55</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">7.20.2021::6:9:55</weakCGTime>
 			<strongCGTime type="a">7.20.2021::6:9:55</strongCGTime>
 			<_itsStateChart type="r">
@@ -882,7 +882,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -960,7 +960,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1233,7 +1233,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1350,7 +1350,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1545,7 +1545,7 @@
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1616,14 +1616,14 @@
 		<IClass type="e">
 			<_id type="a">GUID 88bf6c7b-7d85-463b-a933-747ebcbd2e93</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">Peronal_Almacen</_name>
+			<_name type="a">Personal_Almacen</_name>
 			<Stereotypes type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">1</size>
 					
 						<IHandle type="e">
 							<_hm2Class type="a">IStereotype</_hm2Class>
-							<_hfilename type="a">.\..\..\..\..\temas\profiles\BusinessModeling.sbsx</_hfilename>
+							<_hfilename type="a">$OMROOT\Profiles\profiles\BusinessModeling.sbsx</_hfilename>
 							<_hsubsystem type="a">BusinessModeling</_hsubsystem>
 							<_hname type="a">BusinessWorker</_hname>
 							<_hid type="a">GUID f55bd752-788b-42e5-8e71-527d9316703c</_hid>
@@ -1631,7 +1631,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">7.20.2021::11:45:49</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">10.27.2021::23:46:51</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -1641,9 +1641,9 @@
 					<_hid type="a">GUID 5fa453aa-428b-4c13-901c-df2a56b1e91b</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.20.2021::11:45:49</_modifiedTime>
-			<weakCGTime type="a">7.20.2021::11:45:49</weakCGTime>
-			<strongCGTime type="a">7.20.2021::6:19:20</strongCGTime>
+			<_modifiedTime type="a">10.27.2021::23:46:51</_modifiedTime>
+			<weakCGTime type="a">10.27.2021::23:46:51</weakCGTime>
+			<strongCGTime type="a">10.27.2021::23:46:51</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1658,8 +1658,8 @@
 			<_id type="a">GUID 3e0ab128-c0f6-4572-8504-b60f32287fcf</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsPECOSA</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::10:30:11</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::10:30:11</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.27.2021::23:46:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.27.2021::23:46:51</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -1676,7 +1676,7 @@
 					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
 					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
 					<_hclass type="a">PECOSA</_hclass>
-					<_hname type="a">itsPeronal_Almacen</_hname>
+					<_hname type="a">itsPersonal_Almacen</_hname>
 					<_hid type="a">GUID 95a50ce6-c754-4ec5-a941-05879c288d2d</_hid>
 				</IHandle>
 			</_inverse>
@@ -1696,8 +1696,8 @@
 			<_id type="a">GUID 4bd12cb0-cdfc-4227-a876-760d9f55165c</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsFormato_Registro</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::11:45:49</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::11:45:49</_modifiedTime>
+			<_modifiedTimeWeak type="a">10.27.2021::23:46:51</_modifiedTimeWeak>
+			<_modifiedTime type="a">10.27.2021::23:46:51</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
@@ -1714,7 +1714,7 @@
 					<_hfilename type="a">.\EntidadesNegocio.sbsx</_hfilename>
 					<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
 					<_hclass type="a">Formato_Registro</_hclass>
-					<_hname type="a">itsPeronal_Almacen</_hname>
+					<_hname type="a">itsPersonal_Almacen</_hname>
 					<_hid type="a">GUID 53355359-a2dc-46f3-b794-a8649360d406</_hid>
 				</IHandle>
 			</_inverse>
