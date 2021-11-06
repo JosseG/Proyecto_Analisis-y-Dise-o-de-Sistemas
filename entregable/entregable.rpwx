@@ -16,7 +16,39 @@
 			<isLoadOnDemand type="a">0</isLoadOnDemand>
 			<myViewsWithID type="c">
 				<IRPYRawContainer type="e">
-					<size type="a">4</size>
+					<size type="a">9</size>
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">0</m_nLeft>
+								<m_nTop type="a">0</m_nTop>
+								<m_nRight type="a">591</m_nRight>
+								<m_nBottom type="a">362</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\entregable_rpy\EntidadesNegocio.sbsx</_hfilename>
+								<_hsubsystem type="a">MAN::EntidadesNegocio</_hsubsystem>
+								<_hname type="a">Diagrama EN</_hname>
+								<_hid type="a">GUID b85faf1e-21f3-4d19-bddb-e289081cbac3</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">554 302 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
 					<CGEMdiDiagramParams type="e">
 						<_placement type="p">
 							<CCommon_WINDOWPLACEMENT type="e">
@@ -79,7 +111,7 @@
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">596 308 </_DownRight>
-						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
+						<m_nDiagramIndex type="a">7</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -112,7 +144,103 @@
 						</_theDiagram>
 						<_UpLeft type="a">0 0 </_UpLeft>
 						<_DownRight type="a">596 308 </_DownRight>
+						<m_nDiagramIndex type="a">8</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">130</m_nLeft>
+								<m_nTop type="a">130</m_nTop>
+								<m_nRight type="a">721</m_nRight>
+								<m_nBottom type="a">492</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\entregable_rpy\MAN.sbsx</_hfilename>
+								<_hsubsystem type="a">MAN</_hsubsystem>
+								<_hname type="a">Organizacion del MAN</_hname>
+								<_hid type="a">GUID b2a0b1be-27e8-4904-8a90-0de2e1e9ab78</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">554 302 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">26</m_nLeft>
+								<m_nTop type="a">26</m_nTop>
+								<m_nRight type="a">1061</m_nRight>
+								<m_nBottom type="a">514</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\entregable_rpy\RealizacionesNegocio.sbsx</_hfilename>
+								<_hsubsystem type="a">MAN::RealizacionesNegocio</_hsubsystem>
+								<_hname type="a">Diagrama de RN</_hname>
+								<_hid type="a">GUID b4982d5b-2643-451c-90a8-0e932d5fb912</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 0 </_UpLeft>
+						<_DownRight type="a">998 428 </_DownRight>
 						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">52</m_nLeft>
+								<m_nTop type="a">52</m_nTop>
+								<m_nRight type="a">643</m_nRight>
+								<m_nBottom type="a">414</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\entregable_rpy\GestionRequerimiento_Bienes.sbsx</_hfilename>
+								<_hsubsystem type="a">MAN::RealizacionesNegocio::GestionRequerimiento_Bienes</_hsubsystem>
+								<_hname type="a">Diagrama de Clases de Negocio</_hname>
+								<_hid type="a">GUID 5fa453aa-428b-4c13-901c-df2a56b1e91b</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">0 13 </_UpLeft>
+						<_DownRight type="a">554 315 </_DownRight>
+						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -143,15 +271,47 @@
 								<_hid type="a">GUID 607431fd-81ab-4106-a51a-0136ed9a666b</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">205 441 </_UpLeft>
-						<_DownRight type="a">999 950 </_DownRight>
-						<m_nDiagramIndex type="a">3</m_nDiagramIndex>
+						<_UpLeft type="a">700 1018 </_UpLeft>
+						<_DownRight type="a">2171 1807 </_DownRight>
+						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
+					</CGEMdiDiagramParams>
+					
+					<CGEMdiDiagramParams type="e">
+						<_placement type="p">
+							<CCommon_WINDOWPLACEMENT type="e">
+								<m_nLength type="a">44</m_nLength>
+								<m_nFlags type="a">0</m_nFlags>
+								<m_showCmd type="a">1</m_showCmd>
+								<m_ptMinPositionX type="a">-1</m_ptMinPositionX>
+								<m_ptMinPositionY type="a">-1</m_ptMinPositionY>
+								<m_ptMaxPositionX type="a">-8</m_ptMaxPositionX>
+								<m_ptMaxPositionY type="a">-31</m_ptMaxPositionY>
+								<m_nLeft type="a">26</m_nLeft>
+								<m_nTop type="a">26</m_nTop>
+								<m_nRight type="a">617</m_nRight>
+								<m_nBottom type="a">388</m_nBottom>
+							</CCommon_WINDOWPLACEMENT>
+						</_placement>
+						<_wasOpenedOnCloseProject type="a">1</_wasOpenedOnCloseProject>
+						<_theDiagram type="r">
+							<IHandle type="e">
+								<_hm2Class type="a">IDiagram</_hm2Class>
+								<_hfilename type="a">.\entregable_rpy\TrabajadoresNegocio.sbsx</_hfilename>
+								<_hsubsystem type="a">MAN::TrabajadoresNegocio</_hsubsystem>
+								<_hname type="a">Diagrama TN</_hname>
+								<_hid type="a">GUID a0f73fea-ad8d-41cc-8281-d65ddf524521</_hid>
+							</IHandle>
+						</_theDiagram>
+						<_UpLeft type="a">28 132 </_UpLeft>
+						<_DownRight type="a">650 471 </_DownRight>
+						<m_nDiagramIndex type="a">4</m_nDiagramIndex>
+						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
 				</IRPYRawContainer>
 			</myViewsWithID>
-			<_fullName type="a">C:\Users\User\Desktop\Proyecto_Analisis-y-Dise-o-de-Sistemas\entregable\entregable</_fullName>
+			<_fullName type="a">C:\Users\Jose\Desktop\CIBERTEC\3erCiclo\Analisis y dise%F1o de sistemas\Proyecto\Proyecto\Proyecto_Analisis-y-Dise-o-de-Sistemas\entregable\entregable</_fullName>
 			<_selectedPerspective type="a">Advanced</_selectedPerspective>
 			<m_SearchScopeList type="c">
 				<IRPYRawContainer type="e">

@@ -11,7 +11,7 @@
 			<_id type="a">GUID 43cc55c7-1f03-4b6d-b630-b24a29c4963e</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">TrabajadoresNegocio</_name>
-			<_modifiedTimeWeak type="a">10.27.2021::23:46:51</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">11.6.2021::3:47:58</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -21,9 +21,9 @@
 					<_hid type="a">GUID b2a0b1be-27e8-4904-8a90-0de2e1e9ab78</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.20.2021::14:11:3</_modifiedTime>
+			<_modifiedTime type="a">11.6.2021::3:47:58</_modifiedTime>
 			<_lastID type="a">4</_lastID>
-			<weakCGTime type="a">10.27.2021::23:46:51</weakCGTime>
+			<weakCGTime type="a">11.6.2021::3:47:58</weakCGTime>
 			<strongCGTime type="a">7.20.2021::6:9:55</strongCGTime>
 			<_defaultComposite type="s">GUID ae8323a7-87f2-4b8c-b94a-d9e04d5bb05e</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -131,8 +131,8 @@
 				</IRPYRawContainer>
 			</Stereotypes>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">10.27.2021::23:46:51</_modifiedTime>
-			<_lastModifiedTime type="a">10.27.2021::23:46:51</_lastModifiedTime>
+			<_modifiedTime type="a">11.6.2021::3:48:15</_modifiedTime>
+			<_lastModifiedTime type="a">11.6.2021::3:48:15</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -411,7 +411,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2048</m_drawBehavior>
-			<m_transform type="a">0.15203 0 0 0.101604 371.695 -4.4278 </m_transform>
+			<m_transform type="a">0.15203 0 0 0.101604 386.695 -4.4278 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -506,7 +506,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2048</m_drawBehavior>
-			<m_transform type="a">0.163362 0 0 0.101604 76.6733 151.572 </m_transform>
+			<m_transform type="a">0.163362 0 0 0.107843 76.6733 149.519 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -601,7 +601,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2048</m_drawBehavior>
-			<m_transform type="a">0.15203 0 0 0.101604 386.696 158.572 </m_transform>
+			<m_transform type="a">0.15203 0 0 0.114082 386.696 154.467 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -696,7 +696,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2048</m_drawBehavior>
-			<m_transform type="a">0.163362 0 0 0.101604 76.6733 331.572 </m_transform>
+			<m_transform type="a">0.163362 0 0 0.11319 76.6733 327.76 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -791,7 +791,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2048</m_drawBehavior>
-			<m_transform type="a">0.15203 0 0 0.101604 386.696 331.572 </m_transform>
+			<m_transform type="a">0.163361 0 0 0.116755 386.673 326.587 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
