@@ -11,14 +11,14 @@
 			<_id type="a">GUID ea16b60e-8c78-41f6-b427-527d398ca882</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Seguridad</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::7:37:46</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::17:43:57</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.20.2021::6:2:24</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::6:10:21</_modifiedTime>
 			<_lastID type="a">3</_lastID>
-			<weakCGTime type="a">7.20.2021::7:37:46</weakCGTime>
+			<weakCGTime type="a">7.20.2021::6:2:24</weakCGTime>
 			<strongCGTime type="a">7.20.2021::6:57:25</strongCGTime>
 			<_defaultComposite type="s">GUID 0d551aa6-ca01-47cd-b781-58119fdce5fb</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 0bb67ca1-f824-47eb-abfb-175c64aa2843</value>
 				<value>GUID 0d551aa6-ca01-47cd-b781-58119fdce5fb</value>
@@ -183,8 +183,8 @@
 			</_properties>
 			<_name type="a">Diagrama de  CU Pqte Seguridad</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::16:44:2</_modifiedTime>
-			<_lastModifiedTime type="a">7.20.2021::16:44:2</_lastModifiedTime>
+			<_modifiedTime type="a">7.20.2021::6:9:45</_modifiedTime>
+			<_lastModifiedTime type="a">7.20.2021::6:9:45</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -667,7 +667,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -684,7 +683,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsIngresar_Sistema</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -847,7 +845,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -864,7 +861,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsCambiar_Contrase%F1a</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -949,7 +945,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -971,11 +967,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -1057,11 +1048,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>

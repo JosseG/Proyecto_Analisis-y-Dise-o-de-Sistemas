@@ -11,14 +11,14 @@
 			<_id type="a">GUID a4d00506-2cb3-43dc-a4cd-494e58ea098f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Gestionar_Bienes</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::15:36:23</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::17:43:57</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.20.2021::5:52:46</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::6:10:21</_modifiedTime>
 			<_lastID type="a">14</_lastID>
-			<weakCGTime type="a">7.20.2021::15:36:23</weakCGTime>
+			<weakCGTime type="a">7.20.2021::5:52:46</weakCGTime>
 			<strongCGTime type="a">7.20.2021::7:31:3</strongCGTime>
 			<_defaultComposite type="s">GUID 244e67d3-992d-4649-8250-332ec6c137b3</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID f9e08805-5f1f-468e-9db8-0b4d570ac053</value>
 				<value>GUID 244e67d3-992d-4649-8250-332ec6c137b3</value>
@@ -227,8 +227,8 @@
 			</_properties>
 			<_name type="a">Diagrama CU Pqte Ventas</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::17:12:22</_modifiedTime>
-			<_lastModifiedTime type="a">7.20.2021::17:12:22</_lastModifiedTime>
+			<_modifiedTime type="a">7.20.2021::6:5:23</_modifiedTime>
+			<_lastModifiedTime type="a">7.20.2021::6:5:23</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -396,7 +396,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -468,7 +468,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.164748 0 0 0.0308123 350.329 6.03082 </m_transform>
+			<m_transform type="a">0.164748 0 0 0.0308123 352.329 6.03082 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -508,7 +508,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -580,7 +580,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.163862 0 0 0.0308123 349.328 44.0308 </m_transform>
+			<m_transform type="a">0.163862 0 0 0.0308123 351.328 44.0308 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -620,7 +620,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -732,7 +732,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -844,7 +844,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -956,7 +956,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1068,7 +1068,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1180,7 +1180,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1292,7 +1292,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1404,7 +1404,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1476,7 +1476,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.163862 0 0 0.0308123 349.328 375.031 </m_transform>
+			<m_transform type="a">0.163862 0 0 0.0308123 349.328 376.031 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1516,7 +1516,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1588,7 +1588,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.154119 0 0 0.0308123 362.308 411.031 </m_transform>
+			<m_transform type="a">0.154119 0 0 0.0308123 362.308 409.031 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1628,7 +1628,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1700,7 +1700,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.184234 0 0 0.0308123 350.368 444.031 </m_transform>
+			<m_transform type="a">0.184234 0 0 0.0308123 349.368 457.031 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1740,7 +1740,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,0</_Value>
+													<_Value type="a">255,255,255</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1812,7 +1812,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.163862 0 0 0.0457516 361.328 477.046 </m_transform>
+			<m_transform type="a">0.163862 0 0 0.0457516 357.328 501.046 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -1943,7 +1943,7 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">945 351 </m_SourcePort>
+			<m_SourcePort type="a">945 335 </m_SourcePort>
 			<m_TargetPort type="a">16 681 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
@@ -1970,7 +1970,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -1987,7 +1986,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsRegistrar_solicitud_PECOSA</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2414,7 +2412,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2431,7 +2428,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsConsultar_solicitud_PECOSA</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2594,7 +2590,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsAsistGerenciaAbastecimineto</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2611,7 +2606,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGenerar_ Gu%EDa_pedido</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2774,7 +2768,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsEncarGerenciaProgramacion</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2791,7 +2784,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsConsultar_gu%EDa_pedido</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2954,7 +2946,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -2971,7 +2962,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGenerar_reportes_ facturas_proveedor</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3134,7 +3124,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3151,7 +3140,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsConsultar_reportes_facturas_proveedor</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3313,7 +3301,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3330,7 +3317,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsRegistrar_reportes_ facturas_proveedor</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3493,7 +3479,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsPersonalAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3510,7 +3495,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGenerar_formato_registro</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3673,7 +3657,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsPersonalAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -3690,7 +3673,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsRegistrar_formato_ registro</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4003,8 +3985,8 @@
 			<m_anglePoint1 type="a">0 0 </m_anglePoint1>
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
-			<m_SourcePort type="a">718 811 </m_SourcePort>
-			<m_TargetPort type="a">1116 616 </m_TargetPort>
+			<m_SourcePort type="a">717 811 </m_SourcePort>
+			<m_TargetPort type="a">1122 583 </m_TargetPort>
 			<m_pInverseModelObject type="r">
 				<IAssociationEndHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
@@ -4030,7 +4012,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsAsistenteLogistica</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4047,7 +4028,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsRegistrar_documento_PECOSA</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4210,7 +4190,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4227,7 +4206,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsGenerar_ gu%EDa_entrega</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4390,7 +4368,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4407,7 +4384,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsRegistrar_documento_PECOSA_terminado</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -4492,7 +4468,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -4514,11 +4490,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4561,7 +4532,7 @@
 			<_id type="a">GUID ecd66d6b-f665-4556-9fbc-f2e466855eb2</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Consultar_solicitud_PECOSA</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::17:45:45</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.20.2021::17:45:45</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">7.20.2021::17:45:45</weakCGTime>
@@ -4571,11 +4542,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4654,7 +4620,7 @@
 			<_id type="a">GUID 09bc54f9-cdc0-4ca5-9697-bc61ebd95e9a</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Generar_ Gu%EDa_pedido</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::17:40:49</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.20.2021::17:40:49</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">7.20.2021::17:40:49</weakCGTime>
@@ -4664,16 +4630,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<Diagrams type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</Diagrams>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4788,7 +4744,7 @@
 			<_id type="a">GUID 31d44f4b-a610-4057-ba9a-0a666148ab8e</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Consultar_gu%EDa_pedido</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::17:45:50</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.20.2021::17:45:50</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">7.20.2021::17:45:50</weakCGTime>
@@ -4798,11 +4754,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -4881,7 +4832,7 @@
 			<_id type="a">GUID dce93b52-9178-4823-9d67-6992a8a745dd</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Generar_reportes_ facturas_proveedor</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::17:38:27</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.20.2021::17:38:27</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">7.20.2021::17:38:27</weakCGTime>
@@ -4891,11 +4842,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -5010,7 +4956,7 @@
 			<_id type="a">GUID 001ff1a3-f412-4b61-a5d4-e54f7016a354</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Consultar_reportes_facturas_proveedor</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::17:46:0</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.20.2021::17:46:0</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">7.20.2021::17:46:0</weakCGTime>
@@ -5020,11 +4966,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -5112,11 +5053,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -5159,7 +5095,7 @@
 			<_id type="a">GUID 110c8418-4d9b-4bf9-b6aa-6ee9b0deb9d1</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Generar_formato_registro</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::17:38:32</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.20.2021::17:38:32</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">7.20.2021::17:38:32</weakCGTime>
@@ -5169,11 +5105,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -5297,11 +5228,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -5344,7 +5270,7 @@
 			<_id type="a">GUID 17fa8add-a8dc-47d4-9172-ce2c5d308745</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Generar_ gu%EDa_entrega</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::17:38:17</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.20.2021::17:38:17</_modifiedTime>
 			<_lastID type="a">3</_lastID>
 			<weakCGTime type="a">7.20.2021::17:38:17</weakCGTime>
@@ -5354,11 +5280,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -5482,11 +5403,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -5538,11 +5454,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -5594,11 +5505,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>

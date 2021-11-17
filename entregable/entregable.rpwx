@@ -272,9 +272,9 @@
 								<_hid type="a">GUID 607431fd-81ab-4106-a51a-0136ed9a666b</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">607 390 </_UpLeft>
-						<_DownRight type="a">1203 697 </_DownRight>
-						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
+						<_UpLeft type="a">29 0 </_UpLeft>
+						<_DownRight type="a">823 409 </_DownRight>
+						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -336,9 +336,9 @@
 								<_hid type="a">GUID 075a7d53-5143-453f-a385-f749893c55d8</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">0 20 </_UpLeft>
-						<_DownRight type="a">790 328 </_DownRight>
-						<m_nDiagramIndex type="a">5</m_nDiagramIndex>
+						<_UpLeft type="a">0 40 </_UpLeft>
+						<_DownRight type="a">790 348 </_DownRight>
+						<m_nDiagramIndex type="a">6</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>
 					
@@ -368,8 +368,8 @@
 								<_hid type="a">GUID bc0a51a0-e08e-4e54-a774-ff9063815250</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">145 0 </_UpLeft>
-						<_DownRight type="a">966 529 </_DownRight>
+						<_UpLeft type="a">110 40 </_UpLeft>
+						<_DownRight type="a">1098 569 </_DownRight>
 						<m_nDiagramIndex type="a">2</m_nDiagramIndex>
 						<m_bIsActiveView type="a">1</m_bIsActiveView>
 					</CGEMdiDiagramParams>
@@ -464,8 +464,8 @@
 								<_hid type="a">GUID f9e08805-5f1f-468e-9db8-0b4d570ac053</_hid>
 							</IHandle>
 						</_theDiagram>
-						<_UpLeft type="a">12 10 </_UpLeft>
-						<_DownRight type="a">654 318 </_DownRight>
+						<_UpLeft type="a">12 40 </_UpLeft>
+						<_DownRight type="a">654 348 </_DownRight>
 						<m_nDiagramIndex type="a">1</m_nDiagramIndex>
 						<m_bIsActiveView type="a">0</m_bIsActiveView>
 					</CGEMdiDiagramParams>

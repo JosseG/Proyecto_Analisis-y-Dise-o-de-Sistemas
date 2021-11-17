@@ -11,14 +11,14 @@
 			<_id type="a">GUID e784e19e-2ba8-47e3-94ef-97d8f65669d5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Reutilizables</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::17:47:41</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::17:47:41</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.20.2021::5:7:12</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::6:10:21</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">7.20.2021::17:47:41</weakCGTime>
+			<weakCGTime type="a">7.20.2021::5:7:12</weakCGTime>
 			<strongCGTime type="a">7.20.2021::6:57:54</strongCGTime>
 			<_defaultComposite type="s">GUID ed03def4-4b75-463c-a26d-cef255d83b3a</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 63077c82-e5cd-432e-8b4c-fba2c6ebf18c</value>
 				<value>GUID ed03def4-4b75-463c-a26d-cef255d83b3a</value>
@@ -99,8 +99,8 @@
 			</_properties>
 			<_name type="a">Diagrama de CU Reutilizables</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::17:16:27</_modifiedTime>
-			<_lastModifiedTime type="a">7.20.2021::17:16:27</_lastModifiedTime>
+			<_modifiedTime type="a">7.20.2021::6:8:14</_modifiedTime>
+			<_lastModifiedTime type="a">7.20.2021::6:8:14</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -280,7 +280,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.124004 0 0 0.0392157 105.248 140.039 </m_transform>
+			<m_transform type="a">0.124004 0 0 0.0392157 147.248 140.039 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -389,7 +389,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -411,11 +411,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
@@ -435,11 +430,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>

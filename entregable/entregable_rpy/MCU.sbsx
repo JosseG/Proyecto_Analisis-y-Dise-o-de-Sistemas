@@ -11,7 +11,7 @@
 			<_id type="a">GUID 1b5046fe-2692-423d-8b2e-37a137d54186</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">MCU</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::17:28:51</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::6:10:34</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -19,9 +19,9 @@
 					<_hid type="a">GUID 6e65fc9b-5133-4510-af0d-68d1aa32a2c9</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.20.2021::17:43:57</_modifiedTime>
+			<_modifiedTime type="a">7.20.2021::6:10:34</_modifiedTime>
 			<_lastID type="a">3</_lastID>
-			<weakCGTime type="a">7.20.2021::17:28:51</weakCGTime>
+			<weakCGTime type="a">7.20.2021::6:10:34</weakCGTime>
 			<strongCGTime type="a">7.20.2021::5:5:46</strongCGTime>
 			<_defaultComposite type="s">GUID eed3e3db-dc93-44b0-aa52-2ee007c6d19f</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -539,8 +539,8 @@
 			</_properties>
 			<_name type="a">Diagrama General de CU</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::17:52:24</_modifiedTime>
-			<_lastModifiedTime type="a">7.20.2021::17:52:24</_lastModifiedTime>
+			<_modifiedTime type="a">7.20.2021::6:15:40</_modifiedTime>
+			<_lastModifiedTime type="a">7.20.2021::6:15:40</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -4324,7 +4324,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.13729 0 0 0.0641086 793.274 383.453 </m_transform>
+			<m_transform type="a">0.13729 0 0 0.0641086 804.274 373.453 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5211,7 +5211,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsIngresar_Sistema_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5228,7 +5227,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5395,7 +5393,6 @@
 			<m_bShowQualifier2 type="a">0</m_bShowQualifier2>
 			<m_sourceRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsCambiar_Contrase%F1a_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5412,7 +5409,6 @@
 			</m_sourceRole>
 			<m_targetRole type="p">
 				<CGIText type="e">
-					<m_str type="a">itsSubGerenteAlmacen_1</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -5555,7 +5551,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.105403 0 0 0.0644258 518.211 234.064 </m_transform>
+			<m_transform type="a">0.105403 0 0 0.0644258 518.211 289.064 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5640,7 +5636,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.117803 0 0 0.0653595 573.235 437.065 </m_transform>
+			<m_transform type="a">0.117803 0 0 0.0653595 573.235 442.065 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -5722,7 +5718,7 @@
 				</CGIText>
 			</m_name>
 			<m_drawBehavior type="a">2056</m_drawBehavior>
-			<m_transform type="a">0.0752879 0 0 0.0644258 507.151 48.0644 </m_transform>
+			<m_transform type="a">0.0752879 0 0 0.0644258 507.151 34.0644 </m_transform>
 			<m_bIsPreferencesInitialized type="a">1</m_bIsPreferencesInitialized>
 			<m_AdditionalLabel type="p">
 				<CGIText type="e">
@@ -6539,7 +6535,7 @@
 			<m_anglePoint2 type="a">0 0 </m_anglePoint2>
 			<m_line_style type="a">0</m_line_style>
 			<m_SourcePort type="a">197 123 </m_SourcePort>
-			<m_TargetPort type="a">1071 763 </m_TargetPort>
+			<m_TargetPort type="a">1071 748 </m_TargetPort>
 			<m_ShowName type="a">0</m_ShowName>
 			<m_ShowStereotype type="a">1</m_ShowStereotype>
 		</CGIInheritance>
@@ -7045,7 +7041,7 @@
 			<_id type="a">GUID 7e903fe9-cee5-4d08-b6c6-1f339b488df9</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Mantenimiento_Documento</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::17:44:19</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.20.2021::17:44:19</_modifiedTime>
 			<_lastID type="a">10</_lastID>
 			<weakCGTime type="a">7.20.2021::17:44:19</weakCGTime>
@@ -7055,11 +7051,6 @@
 				</IHandle>
 			</_itsStateChart>
 			<_classModifier type="a">Unspecified</_classModifier>
-			<UseCaseStereoTypes type="c">
-				<IRPYRawContainer type="e">
-					<size type="a">0</size>
-				</IRPYRawContainer>
-			</UseCaseStereoTypes>
 			<_EntryPoints type="c">
 				<IRPYRawContainer type="e">
 					<size type="a">0</size>
