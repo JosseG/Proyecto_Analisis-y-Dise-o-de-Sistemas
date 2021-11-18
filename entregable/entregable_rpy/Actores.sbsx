@@ -11,14 +11,14 @@
 			<_id type="a">GUID 0a7095a5-8ec0-4ca9-b4aa-8f097a9d868b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Actores</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::7:1:12</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::17:43:57</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.20.2021::8:16:10</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::10:23:41</_modifiedTime>
 			<_lastID type="a">7</_lastID>
-			<weakCGTime type="a">7.20.2021::7:1:12</weakCGTime>
+			<weakCGTime type="a">7.20.2021::8:16:10</weakCGTime>
 			<strongCGTime type="a">7.20.2021::6:51:35</strongCGTime>
 			<_defaultComposite type="s">GUID 97cc6e9b-77c2-4a98-b834-ffa3735dd4fe</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
-			<_configurationRelatedTime type="a">12.31.1969::19:0:0</_configurationRelatedTime>
+			<_configurationRelatedTime type="a">1.2.1990::0:0:0</_configurationRelatedTime>
 			<AggregatesList type="e">
 				<value>GUID 075a7d53-5143-453f-a385-f749893c55d8</value>
 				<value>GUID 97cc6e9b-77c2-4a98-b834-ffa3735dd4fe</value>
@@ -136,8 +136,8 @@
 			</_properties>
 			<_name type="a">Diagrama de Actores</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::15:19:35</_modifiedTime>
-			<_lastModifiedTime type="a">7.20.2021::15:19:35</_lastModifiedTime>
+			<_modifiedTime type="a">7.20.2021::7:56:0</_modifiedTime>
+			<_lastModifiedTime type="a">7.20.2021::7:56:0</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -428,7 +428,7 @@
 			<m_pParent type="s">GUID d2890ca7-0862-4c8f-8ac0-ebed7daff9c2</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">PersonalAlmacen</m_str>
+					<m_str type="a">Almacenero</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -856,7 +856,7 @@
 			<_myState type="a">40960</_myState>
 			<_name type="a">TopLevel</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<weakCGTime type="a">1.2.1990::0:0:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -869,18 +869,9 @@
 			<_id type="a">GUID 4b97109a-1f38-4d5a-94a4-a395777a467b</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">SubGerenteAlmacen</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::16:18:7</_modifiedTimeWeak>
-			<_theMainDiagram type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Seguridad</_hsubsystem>
-					<_hname type="a">Diagrama de  CU Pqte Seguridad</_hname>
-					<_hid type="a">GUID 0bb67ca1-f824-47eb-abfb-175c64aa2843</_hid>
-				</IHandle>
-			</_theMainDiagram>
-			<_modifiedTime type="a">7.20.2021::16:18:7</_modifiedTime>
-			<weakCGTime type="a">7.20.2021::16:18:7</weakCGTime>
+			<_modifiedTimeWeak type="a">7.20.2021::8:4:14</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::8:4:14</_modifiedTime>
+			<weakCGTime type="a">7.20.2021::15:56:57</weakCGTime>
 			<strongCGTime type="a">7.20.2021::7:1:51</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -893,8 +884,6 @@
 				<value>GUID 382af370-b940-4350-8185-10b4ca7d59e9</value>
 				<value>GUID 654208a3-8371-4c2d-8f5f-ca0fc50b714a</value>
 				<value>GUID c216cbb5-acf6-4a76-b900-6e721b5c9f52</value>
-				<value>GUID f1c1b1ad-0769-42cf-af17-a6ac671c93a2</value>
-				<value>GUID e46ea2f7-237e-43c8-a015-dddabd8d224e</value>
 				<value>GUID 3055c2da-1f45-4999-aa51-f2501b7e4100</value>
 				<value>GUID 129969fe-48bb-49c2-88bd-df559ca8ad62</value>
 				<value>GUID 46da958b-3fe4-48e7-ae06-57e79ea72e73</value>
@@ -904,14 +893,12 @@
 				<value>GUID 0e0a5cf1-254f-470a-80c6-08888eae528c</value>
 				<value>GUID 372afa9a-13f7-4d0c-8f37-3868e4c72c9b</value>
 				<value>GUID 41ff5358-2674-4342-8a74-5f47226e155c</value>
-				<value>GUID e9b4933e-50fd-4dc5-b84c-47987b6cef26</value>
-				<value>GUID 92842b68-de78-4cf4-a9f2-ddc7d27422a7</value>
 			</AggregatesList>
 		</IActor>
 		<IGeneralization type="e">
 			<_id type="a">GUID a5f72e91-ee1f-48cc-bb7c-031dce95f9ff</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -924,7 +911,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID 719f377a-6267-4ba0-aa5f-5e3dabb0730a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -937,7 +924,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID 382af370-b940-4350-8185-10b4ca7d59e9</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -950,7 +937,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID 654208a3-8371-4c2d-8f5f-ca0fc50b714a</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -963,7 +950,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID c216cbb5-acf6-4a76-b900-6e721b5c9f52</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -974,64 +961,6 @@
 			<_isVirtual type="a">0</_isVirtual>
 		</IGeneralization>
 		<IAssociationEnd type="e">
-			<_id type="a">GUID f1c1b1ad-0769-42cf-af17-a6ac671c93a2</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsIngresar_Sistema</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::7:40:6</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Seguridad</_hsubsystem>
-					<_hname type="a">Ingresar_Sistema</_hname>
-					<_hid type="a">GUID 11181087-3ca7-40c9-bde9-cb9eedce4bab</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Seguridad</_hsubsystem>
-					<_hclass type="a">Ingresar_Sistema</_hclass>
-					<_hname type="a">itsSubGerenteAlmacen</_hname>
-					<_hid type="a">GUID c8a498b4-26a9-4d21-9a14-6469257c39a8</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID e46ea2f7-237e-43c8-a015-dddabd8d224e</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsCambiar_Contrase%F1a</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::7:40:44</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Seguridad</_hsubsystem>
-					<_hname type="a">Cambiar_Contrase%F1a</_hname>
-					<_hid type="a">GUID 68b40ebb-7d8f-4c9e-bb3b-c72948912931</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Seguridad</_hsubsystem>
-					<_hclass type="a">Cambiar_Contrase%F1a</_hclass>
-					<_hname type="a">itsSubGerenteAlmacen</_hname>
-					<_hid type="a">GUID 4eab3f82-323d-4ca8-b97b-a46390678a03</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
 			<_id type="a">GUID 3055c2da-1f45-4999-aa51-f2501b7e4100</_id>
 			<_myState type="a">10240</_myState>
 			<_name type="a">itsRegistrar_solicitud_PECOSA</_name>
@@ -1041,8 +970,8 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Registrar_solicitud_PECOSA</_hname>
 					<_hid type="a">GUID ad21b9fb-7aef-4bb8-9813-e8d2f63ce32e</_hid>
 				</IClassifierHandle>
@@ -1050,8 +979,8 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hclass type="a">Registrar_solicitud_PECOSA</_hclass>
 					<_hname type="a">itsSubGerenteAlmacen</_hname>
 					<_hid type="a">GUID f95f1264-ebde-47a7-8dd3-34ebe78a4350</_hid>
@@ -1114,8 +1043,8 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Consultar_solicitud_PECOSA</_hname>
 					<_hid type="a">GUID ecd66d6b-f665-4556-9fbc-f2e466855eb2</_hid>
 				</IClassifierHandle>
@@ -1123,8 +1052,8 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hclass type="a">Consultar_solicitud_PECOSA</_hclass>
 					<_hname type="a">itsSubGerenteAlmacen</_hname>
 					<_hid type="a">GUID da613964-9746-4464-bf7c-01ec51db6255</_hid>
@@ -1143,8 +1072,8 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Generar_reportes_ facturas_proveedor</_hname>
 					<_hid type="a">GUID dce93b52-9178-4823-9d67-6992a8a745dd</_hid>
 				</IClassifierHandle>
@@ -1152,8 +1081,8 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hclass type="a">Generar_reportes_ facturas_proveedor</_hclass>
 					<_hname type="a">itsSubGerenteAlmacen</_hname>
 					<_hid type="a">GUID 6b365165-40a3-4bc4-8bdb-8152515a9447</_hid>
@@ -1172,8 +1101,8 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Consultar_reportes_facturas_proveedor</_hname>
 					<_hid type="a">GUID 001ff1a3-f412-4b61-a5d4-e54f7016a354</_hid>
 				</IClassifierHandle>
@@ -1181,8 +1110,8 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hclass type="a">Consultar_reportes_facturas_proveedor</_hclass>
 					<_hname type="a">itsSubGerenteAlmacen</_hname>
 					<_hid type="a">GUID 846d41d1-a453-41a4-851a-2a15d2563f68</_hid>
@@ -1194,25 +1123,25 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 0e0a5cf1-254f-470a-80c6-08888eae528c</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsRegistrar_reportes_ facturas_proveedor</_name>
+			<_name type="a">itsActualizar_estado_ reportes _facturas_proveedor</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::16:0:38</_modifiedTime>
+			<_modifiedTime type="a">7.20.2021::7:59:34</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
-					<_hname type="a">Registrar_reportes_ facturas_proveedor</_hname>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
+					<_hname type="a">Actualizar_estado_ reportes _facturas_proveedor</_hname>
 					<_hid type="a">GUID 3705d167-5e5b-4135-9923-620b0a275837</_hid>
 				</IClassifierHandle>
 			</_otherClass>
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
-					<_hclass type="a">Registrar_reportes_ facturas_proveedor</_hclass>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
+					<_hclass type="a">Actualizar_estado_ reportes _facturas_proveedor</_hclass>
 					<_hname type="a">itsSubGerenteAlmacen</_hname>
 					<_hid type="a">GUID 0ea599fe-3811-4cee-8512-51b4389e60e2</_hid>
 				</IHandle>
@@ -1230,8 +1159,8 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Generar_ gu%EDa_entrega</_hname>
 					<_hid type="a">GUID 17fa8add-a8dc-47d4-9172-ce2c5d308745</_hid>
 				</IClassifierHandle>
@@ -1239,8 +1168,8 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hclass type="a">Generar_ gu%EDa_entrega</_hclass>
 					<_hname type="a">itsSubGerenteAlmacen</_hname>
 					<_hid type="a">GUID 34361c66-3734-466e-83c3-f5c47e46b3ae</_hid>
@@ -1252,89 +1181,27 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 41ff5358-2674-4342-8a74-5f47226e155c</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsRegistrar_documento_PECOSA_terminado</_name>
+			<_name type="a">itsRegistrar_PECOSA_terminado</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::16:5:20</_modifiedTime>
+			<_modifiedTime type="a">7.20.2021::8:1:21</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
-					<_hname type="a">Registrar_documento_PECOSA_terminado</_hname>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
+					<_hname type="a">Registrar_PECOSA_terminado</_hname>
 					<_hid type="a">GUID 41b714f0-d070-4899-999e-46237ba802ba</_hid>
 				</IClassifierHandle>
 			</_otherClass>
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
-					<_hclass type="a">Registrar_documento_PECOSA_terminado</_hclass>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
+					<_hclass type="a">Registrar_PECOSA_terminado</_hclass>
 					<_hname type="a">itsSubGerenteAlmacen</_hname>
 					<_hid type="a">GUID 2a3071de-9760-451b-b89a-70942c36159e</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID e9b4933e-50fd-4dc5-b84c-47987b6cef26</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsIngresar_Sistema_1</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::16:18:56</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Seguridad</_hsubsystem>
-					<_hname type="a">Ingresar_Sistema</_hname>
-					<_hid type="a">GUID 11181087-3ca7-40c9-bde9-cb9eedce4bab</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Seguridad</_hsubsystem>
-					<_hclass type="a">Ingresar_Sistema</_hclass>
-					<_hname type="a">itsSubGerenteAlmacen_1</_hname>
-					<_hid type="a">GUID 11460122-313d-4ea8-80cf-fe0f291e99cc</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID 92842b68-de78-4cf4-a9f2-ddc7d27422a7</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsCambiar_Contrase%F1a_1</_name>
-			<_displayName type="a">{\rtf1\ansi\ansicpg1252\deff0\deflang3082{\fonttbl{\f0\fnil\fcharset0 MS Shell Dlg;}}%0D
-\viewkind4\uc1\pard\f0\fs17 itsCambiar_Contrase\'f1a_1\par%0D
-}%0D
-</_displayName>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::16:19:9</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Seguridad</_hsubsystem>
-					<_hname type="a">Cambiar_Contrase%F1a</_hname>
-					<_hid type="a">GUID 68b40ebb-7d8f-4c9e-bb3b-c72948912931</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Seguridad.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Seguridad</_hsubsystem>
-					<_hclass type="a">Cambiar_Contrase%F1a</_hclass>
-					<_hname type="a">itsSubGerenteAlmacen_1</_hname>
-					<_hid type="a">GUID 87efdb70-d7b3-4811-95ae-156f19064ad2</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
@@ -1348,8 +1215,8 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Diagrama CU Pqte Ventas</_hname>
 					<_hid type="a">GUID f9e08805-5f1f-468e-9db8-0b4d570ac053</_hid>
 				</IHandle>
@@ -1370,7 +1237,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID c953a288-6d52-42c8-a0e0-010c49e170f7</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -1390,8 +1257,8 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Generar_ Gu%EDa_pedido</_hname>
 					<_hid type="a">GUID 09bc54f9-cdc0-4ca5-9697-bc61ebd95e9a</_hid>
 				</IClassifierHandle>
@@ -1399,8 +1266,8 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hclass type="a">Generar_ Gu%EDa_pedido</_hclass>
 					<_hname type="a">itsAsistGerenciaAbastecimineto</_hname>
 					<_hid type="a">GUID 95afd60a-19ba-42a7-806a-91d07bc0061d</_hid>
@@ -1417,8 +1284,8 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Diagrama CU Pqte Ventas</_hname>
 					<_hid type="a">GUID f9e08805-5f1f-468e-9db8-0b4d570ac053</_hid>
 				</IHandle>
@@ -1445,8 +1312,8 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Consultar_gu%EDa_pedido</_hname>
 					<_hid type="a">GUID 31d44f4b-a610-4057-ba9a-0a666148ab8e</_hid>
 				</IClassifierHandle>
@@ -1454,8 +1321,8 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hclass type="a">Consultar_gu%EDa_pedido</_hclass>
 					<_hname type="a">itsEncarGerenciaProgramacion</_hname>
 					<_hid type="a">GUID 0da6e683-9095-431d-9d20-5e50d8894b41</_hid>
@@ -1467,20 +1334,20 @@
 		<IActor type="e">
 			<_id type="a">GUID dccff48f-c012-43ed-bc23-5a6a6200390a</_id>
 			<_myState type="a">8192</_myState>
-			<_name type="a">PersonalAlmacen</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::16:1:23</_modifiedTimeWeak>
+			<_name type="a">Almacenero</_name>
+			<_modifiedTimeWeak type="a">7.20.2021::8:16:10</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Diagrama CU Pqte Ventas</_hname>
 					<_hid type="a">GUID f9e08805-5f1f-468e-9db8-0b4d570ac053</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.20.2021::16:1:23</_modifiedTime>
-			<weakCGTime type="a">7.20.2021::16:1:23</weakCGTime>
-			<strongCGTime type="a">7.20.2021::7:3:17</strongCGTime>
+			<_modifiedTime type="a">7.20.2021::8:16:10</_modifiedTime>
+			<weakCGTime type="a">7.20.2021::8:16:10</weakCGTime>
+			<strongCGTime type="a">7.20.2021::7:56:0</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -1488,62 +1355,32 @@
 			<_classModifier type="a">Unspecified</_classModifier>
 			<AggregatesList type="e">
 				<value>GUID 8c0798a5-5c49-4946-a066-1b5dd43081f9</value>
-				<value>GUID fbaa2ed1-cdb2-4662-b404-c3f4f50dd85d</value>
 			</AggregatesList>
 		</IActor>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 8c0798a5-5c49-4946-a066-1b5dd43081f9</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsGenerar_formato_registro</_name>
+			<_name type="a">itsRegistrarProductos ingresados</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::16:1:27</_modifiedTime>
+			<_modifiedTime type="a">7.20.2021::7:59:52</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
-					<_hname type="a">Generar_formato_registro</_hname>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
+					<_hname type="a">RegistrarProductos ingresados</_hname>
 					<_hid type="a">GUID 110c8418-4d9b-4bf9-b6aa-6ee9b0deb9d1</_hid>
 				</IClassifierHandle>
 			</_otherClass>
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
-					<_hclass type="a">Generar_formato_registro</_hclass>
-					<_hname type="a">itsPersonalAlmacen</_hname>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
+					<_hclass type="a">RegistrarProductos ingresados</_hclass>
+					<_hname type="a">itsAlmacenero</_hname>
 					<_hid type="a">GUID 5406d710-60e9-46e7-b30e-615df07c6621</_hid>
-				</IHandle>
-			</_inverse>
-			<_linkType type="a">Assoc</_linkType>
-			<_navigability type="a">Navigable</_navigability>
-		</IAssociationEnd>
-		<IAssociationEnd type="e">
-			<_id type="a">GUID fbaa2ed1-cdb2-4662-b404-c3f4f50dd85d</_id>
-			<_myState type="a">10240</_myState>
-			<_name type="a">itsRegistrar_formato_ registro</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::16:1:43</_modifiedTime>
-			<_multiplicity type="a">1</_multiplicity>
-			<_otherClass type="r">
-				<IClassifierHandle type="e">
-					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
-					<_hname type="a">Registrar_formato_ registro</_hname>
-					<_hid type="a">GUID be44ad3e-8e29-47b7-b980-da89fe44722d</_hid>
-				</IClassifierHandle>
-			</_otherClass>
-			<_inverse type="r">
-				<IHandle type="e">
-					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
-					<_hclass type="a">Registrar_formato_ registro</_hclass>
-					<_hname type="a">itsPersonalAlmacen</_hname>
-					<_hid type="a">GUID e1fe4ea2-4a32-42bf-8082-66040571b4ad</_hid>
 				</IHandle>
 			</_inverse>
 			<_linkType type="a">Assoc</_linkType>
@@ -1557,8 +1394,8 @@
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Diagrama CU Pqte Ventas</_hname>
 					<_hid type="a">GUID f9e08805-5f1f-468e-9db8-0b4d570ac053</_hid>
 				</IHandle>
@@ -1579,7 +1416,7 @@
 		<IGeneralization type="e">
 			<_id type="a">GUID ffddb669-4cbf-41ae-b4ca-b4a5513b81c1</_id>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">12.31.1969::19:0:0</_modifiedTime>
+			<_modifiedTime type="a">1.2.1990::0:0:0</_modifiedTime>
 			<_dependsOn type="r">
 				<INObjectHandle type="e">
 					<_hm2Class type="a">IActor</_hm2Class>
@@ -1599,8 +1436,8 @@
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Registrar_gu%EDa_entrega</_hname>
 					<_hid type="a">GUID e28db996-5cd2-437a-af2d-1972e9efc747</_hid>
 				</IClassifierHandle>
@@ -1608,8 +1445,8 @@
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hclass type="a">Registrar_gu%EDa_entrega</_hclass>
 					<_hname type="a">itsAsistenteAdministrativo</_hname>
 					<_hid type="a">GUID bb2e2e1e-3d23-490f-a2de-b3bfd2aa7445</_hid>
@@ -1622,18 +1459,18 @@
 			<_id type="a">GUID 764fc6c4-ed98-4b35-9a49-2d2c4b523b98</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">AsistenteLogistica</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::16:3:52</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::8:1:5</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IUCDiagram</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
 					<_hname type="a">Diagrama CU Pqte Ventas</_hname>
 					<_hid type="a">GUID f9e08805-5f1f-468e-9db8-0b4d570ac053</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">7.20.2021::16:3:52</_modifiedTime>
-			<weakCGTime type="a">7.20.2021::16:3:52</weakCGTime>
+			<_modifiedTime type="a">7.20.2021::8:1:5</_modifiedTime>
+			<weakCGTime type="a">7.20.2021::8:1:5</weakCGTime>
 			<strongCGTime type="a">7.20.2021::7:4:17</strongCGTime>
 			<_itsStateChart type="r">
 				<IHandle type="e">
@@ -1647,25 +1484,25 @@
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 0e25d150-3090-47a8-80f7-595522ef0b2b</_id>
 			<_myState type="a">10240</_myState>
-			<_name type="a">itsRegistrar_documento_PECOSA</_name>
+			<_name type="a">itsRegistrar_PECOSA</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::16:3:57</_modifiedTime>
+			<_modifiedTime type="a">7.20.2021::8:1:5</_modifiedTime>
 			<_multiplicity type="a">1</_multiplicity>
 			<_otherClass type="r">
 				<IClassifierHandle type="e">
 					<_hm2Class type="a">IUseCase</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
-					<_hname type="a">Registrar_documento_PECOSA</_hname>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
+					<_hname type="a">Registrar_PECOSA</_hname>
 					<_hid type="a">GUID 8ac80102-5fe4-41f7-8505-8b9476ebe428</_hid>
 				</IClassifierHandle>
 			</_otherClass>
 			<_inverse type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IAssociationEnd</_hm2Class>
-					<_hfilename type="a">.\Gestionar_Bienes.sbsx</_hfilename>
-					<_hsubsystem type="a">MCU::paquetesCU::Gestionar_Bienes</_hsubsystem>
-					<_hclass type="a">Registrar_documento_PECOSA</_hclass>
+					<_hfilename type="a">.\GestionarRequerimiento_Bienes.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::GestionarRequerimiento_Bienes</_hsubsystem>
+					<_hclass type="a">Registrar_PECOSA</_hclass>
 					<_hname type="a">itsAsistenteLogistica</_hname>
 					<_hid type="a">GUID 19e3f014-723e-41e8-9bae-177769ae4dad</_hid>
 				</IHandle>
