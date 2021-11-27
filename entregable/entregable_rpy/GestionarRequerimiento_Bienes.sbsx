@@ -11,10 +11,10 @@
 			<_id type="a">GUID a4d00506-2cb3-43dc-a4cd-494e58ea098f</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">GestionarRequerimiento_Bienes</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::8:16:10</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::10:23:41</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.20.2021::6:7:18</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::6:10:17</_modifiedTime>
 			<_lastID type="a">14</_lastID>
-			<weakCGTime type="a">7.20.2021::8:16:10</weakCGTime>
+			<weakCGTime type="a">7.20.2021::6:7:18</weakCGTime>
 			<strongCGTime type="a">7.20.2021::8:6:17</strongCGTime>
 			<_defaultComposite type="s">GUID 244e67d3-992d-4649-8250-332ec6c137b3</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -224,10 +224,10 @@
 				</Subjects>
 			</IPropertyContainer>
 			</_properties>
-			<_name type="a">Diagrama CU Pqte Ventas</_name>
+			<_name type="a">Diagrama CU Pqte GestionarRequerimiento_Bienes</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::8:42:10</_modifiedTime>
-			<_lastModifiedTime type="a">7.20.2021::8:42:10</_lastModifiedTime>
+			<_modifiedTime type="a">7.20.2021::6:7:18</_modifiedTime>
+			<_lastModifiedTime type="a">7.20.2021::6:7:18</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -393,7 +393,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -505,7 +505,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -617,7 +617,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -729,7 +729,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -841,7 +841,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -953,7 +953,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1065,7 +1065,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1177,7 +1177,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1289,7 +1289,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1401,7 +1401,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1513,7 +1513,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -1625,7 +1625,7 @@
 												<size type="a">2</size>
 												<IProperty type="e">
 													<_Name type="a">Fill.FillColor</_Name>
-													<_Value type="a">255,255,255</_Value>
+													<_Value type="a">255,255,0</_Value>
 													<_Type type="a">Color</_Type>
 												</IProperty>
 												
@@ -4524,8 +4524,8 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">Consultar_gu%EDa_pedido</_name>
 			<_modifiedTimeWeak type="a">7.20.2021::17:45:50</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::8:33:39</_modifiedTime>
-			<_lastID type="a">3</_lastID>
+			<_modifiedTime type="a">7.20.2021::5:52:50</_modifiedTime>
+			<_lastID type="a">4</_lastID>
 			<weakCGTime type="a">7.20.2021::17:45:50</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -4542,6 +4542,7 @@
 				<value>GUID 3cda505d-6e11-4552-b560-befcda6c010a</value>
 				<value>GUID c4269f68-4230-4132-995f-f51ba7cbede8</value>
 				<value>GUID 5075f7b7-d88d-4872-9b00-0393d3875c4c</value>
+				<value>GUID f17b597d-fd64-48ff-8661-09a7ebc65711</value>
 				<value>GUID 0da6e683-9095-431d-9d20-5e50d8894b41</value>
 			</AggregatesList>
 		</IUseCase>
@@ -4641,6 +4642,41 @@
 					<_hsubsystem type="a">MCU::paquetesCU::Reutilizables</_hsubsystem>
 					<_hname type="a">Buscar_Proveedor</_hname>
 					<_hid type="a">GUID 08aa019d-a89a-472c-bc8d-fe77658463dc</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 31d44f4b-a610-4057-ba9a-0a666148ab8e</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID f17b597d-fd64-48ff-8661-09a7ebc65711</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Buscar_Producto_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.20.2021::5:52:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::5:52:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Reutilizables.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::Reutilizables</_hsubsystem>
+					<_hname type="a">Buscar_Producto</_hname>
+					<_hid type="a">GUID 66d31520-50b0-4e67-b55c-4b1dbde3d7cb</_hid>
 				</INObjectHandle>
 			</_dependsOn>
 			<_dependent type="r">
@@ -4880,8 +4916,8 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">Consultar_reportes_facturas_proveedor</_name>
 			<_modifiedTimeWeak type="a">7.20.2021::17:46:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::8:27:41</_modifiedTime>
-			<_lastID type="a">2</_lastID>
+			<_modifiedTime type="a">7.20.2021::5:53:19</_modifiedTime>
+			<_lastID type="a">3</_lastID>
 			<weakCGTime type="a">7.20.2021::17:46:0</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -4897,6 +4933,7 @@
 			<AggregatesList type="e">
 				<value>GUID b93384a5-b08d-4eb3-9e76-6d6305cca3d6</value>
 				<value>GUID 98d87c82-87a3-4503-ac47-fd40b1a5be13</value>
+				<value>GUID cf5f1cd5-a50b-4277-ab6e-6948a2f0458a</value>
 				<value>GUID 846d41d1-a453-41a4-851a-2a15d2563f68</value>
 			</AggregatesList>
 		</IUseCase>
@@ -4970,6 +5007,41 @@
 				</INObjectHandle>
 			</_dependent>
 		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID cf5f1cd5-a50b-4277-ab6e-6948a2f0458a</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Buscar_Proveedor_1</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.20.2021::5:53:19</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::5:53:19</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Reutilizables.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::Reutilizables</_hsubsystem>
+					<_hname type="a">Buscar_Proveedor</_hname>
+					<_hid type="a">GUID 08aa019d-a89a-472c-bc8d-fe77658463dc</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 001ff1a3-f412-4b61-a5d4-e54f7016a354</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 846d41d1-a453-41a4-851a-2a15d2563f68</_id>
 			<_myState type="a">10240</_myState>
@@ -5003,7 +5075,7 @@
 			<_id type="a">GUID 3705d167-5e5b-4135-9923-620b0a275837</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Actualizar_estado_ reportes _facturas_proveedor</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::8:31:33</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.20.2021::8:31:33</_modifiedTime>
 			<_lastID type="a">2</_lastID>
 			<weakCGTime type="a">7.20.2021::8:31:33</weakCGTime>
@@ -5288,8 +5360,8 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">Generar_ gu%EDa_entrega</_name>
 			<_modifiedTimeWeak type="a">7.20.2021::17:38:17</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::8:32:15</_modifiedTime>
-			<_lastID type="a">4</_lastID>
+			<_modifiedTime type="a">7.20.2021::5:55:50</_modifiedTime>
+			<_lastID type="a">5</_lastID>
 			<weakCGTime type="a">7.20.2021::17:38:17</weakCGTime>
 			<strongCGTime type="a">1.2.1990::0:0:0</strongCGTime>
 			<_itsStateChart type="r">
@@ -5306,6 +5378,7 @@
 				<value>GUID bc0af27b-2b6a-40fd-bc6c-8a65f6206315</value>
 				<value>GUID 36d2a1bf-67c9-406d-b708-4145abc6dafa</value>
 				<value>GUID 524954db-53a3-4ca5-a05a-251ff754cafa</value>
+				<value>GUID 05f1a8b8-1412-49e2-a0c2-37b1ca031424</value>
 				<value>GUID 34361c66-3734-466e-83c3-f5c47e46b3ae</value>
 			</AggregatesList>
 		</IUseCase>
@@ -5414,6 +5487,41 @@
 				</INObjectHandle>
 			</_dependent>
 		</IDependency>
+		<IDependency type="e">
+			<_id type="a">GUID 05f1a8b8-1412-49e2-a0c2-37b1ca031424</_id>
+			<_myState type="a">2048</_myState>
+			<_name type="a">Buscar_Proveedor_0</_name>
+			<Stereotypes type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IStereotype</_hm2Class>
+							<_hsubsystem type="a">PredefinedTypes</_hsubsystem>
+							<_hname type="a">include</_hname>
+							<_hid type="a">GUID 17ef9a2f-cb89-11d5-b5bf-00d0b780aafd</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</Stereotypes>
+			<_modifiedTimeWeak type="a">7.20.2021::5:55:50</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::5:55:50</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hfilename type="a">.\Reutilizables.sbsx</_hfilename>
+					<_hsubsystem type="a">MCU::paquetesCU::Reutilizables</_hsubsystem>
+					<_hname type="a">Buscar_Proveedor</_hname>
+					<_hid type="a">GUID 08aa019d-a89a-472c-bc8d-fe77658463dc</_hid>
+				</INObjectHandle>
+			</_dependsOn>
+			<_dependent type="r">
+				<INObjectHandle type="e">
+					<_hm2Class type="a">IUseCase</_hm2Class>
+					<_hid type="a">GUID 17fa8add-a8dc-47d4-9172-ce2c5d308745</_hid>
+				</INObjectHandle>
+			</_dependent>
+		</IDependency>
 		<IAssociationEnd type="e">
 			<_id type="a">GUID 34361c66-3734-466e-83c3-f5c47e46b3ae</_id>
 			<_myState type="a">10240</_myState>
@@ -5447,7 +5555,7 @@
 			<_id type="a">GUID e28db996-5cd2-437a-af2d-1972e9efc747</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Registrar_gu%EDa_entrega</_name>
-			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">7.20.2021::8:32:32</_modifiedTimeWeak>
 			<_modifiedTime type="a">7.20.2021::8:32:32</_modifiedTime>
 			<_lastID type="a">1</_lastID>
 			<weakCGTime type="a">7.20.2021::8:32:32</weakCGTime>

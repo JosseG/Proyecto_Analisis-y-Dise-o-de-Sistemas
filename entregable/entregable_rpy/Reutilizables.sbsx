@@ -11,10 +11,10 @@
 			<_id type="a">GUID e784e19e-2ba8-47e3-94ef-97d8f65669d5</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">Reutilizables</_name>
-			<_modifiedTimeWeak type="a">7.20.2021::9:0:56</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::10:23:41</_modifiedTime>
+			<_modifiedTimeWeak type="a">7.20.2021::5:56:32</_modifiedTimeWeak>
+			<_modifiedTime type="a">7.20.2021::6:41:1</_modifiedTime>
 			<_lastID type="a">6</_lastID>
-			<weakCGTime type="a">7.20.2021::9:0:56</weakCGTime>
+			<weakCGTime type="a">7.20.2021::5:56:32</weakCGTime>
 			<strongCGTime type="a">7.20.2021::6:57:54</strongCGTime>
 			<_defaultComposite type="s">GUID ed03def4-4b75-463c-a26d-cef255d83b3a</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -99,8 +99,8 @@
 			</_properties>
 			<_name type="a">Diagrama de CU Reutilizables</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">7.20.2021::9:0:56</_modifiedTime>
-			<_lastModifiedTime type="a">7.20.2021::9:0:56</_lastModifiedTime>
+			<_modifiedTime type="a">7.20.2021::5:56:36</_modifiedTime>
+			<_lastModifiedTime type="a">7.20.2021::5:56:36</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -225,7 +225,37 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
-						<size type="a">1</size>
+						<size type="a">2</size>
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">UseCase</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">0,255,0</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
 						<IPropertySubject type="e">
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
@@ -307,7 +337,37 @@
 			<_properties type="p"><IPropertyContainer type="e">
 				<Subjects type="c">
 					<IRPYRawContainer type="e">
-						<size type="a">1</size>
+						<size type="a">2</size>
+						<IPropertySubject type="e">
+							<_Name type="a">Format</_Name>
+							<Metaclasses type="c">
+								<IRPYRawContainer type="e">
+									<size type="a">1</size>
+									<IPropertyMetaclass type="e">
+										<_Name type="a">UseCase</_Name>
+										<Properties type="c">
+											<IRPYRawContainer type="e">
+												<size type="a">2</size>
+												<IProperty type="e">
+													<_Name type="a">Fill.FillColor</_Name>
+													<_Value type="a">0,255,0</_Value>
+													<_Type type="a">Color</_Type>
+												</IProperty>
+												
+												<IProperty type="e">
+													<_Name type="a">Fill.Transparent_Fill</_Name>
+													<_Value type="a">0</_Value>
+													<_Type type="a">Int</_Type>
+												</IProperty>
+												
+											</IRPYRawContainer>
+										</Properties>
+									</IPropertyMetaclass>
+									
+								</IRPYRawContainer>
+							</Metaclasses>
+						</IPropertySubject>
+						
 						<IPropertySubject type="e">
 							<_Name type="a">General</_Name>
 							<Metaclasses type="c">
